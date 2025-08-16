@@ -45,17 +45,7 @@ logs/
 *.swp
 *.swo
 
-# ----------------------
-# Data / Models
-# ----------------------
-data/
-datasets/
-*.csv
-*.tsv
-*.jsonl
-*.parquet
-*.sqlite
-*.db
+
 
 # Model weights / checkpoints
 checkpoints/
