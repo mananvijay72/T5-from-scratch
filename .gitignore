@@ -1,0 +1,82 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pdb
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ----------------------
+# Environments
+# ----------------------
+.env
+.venv
+env/
+venv/
+myenv/
+.conda/
+*.conda
+*.env
+*.venv
+
+
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
+logs/
+*.out
+*.err
+
+# ----------------------
+# IDE / Editor
+# ----------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----------------------
+# Data / Models
+# ----------------------
+data/
+datasets/
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+*.sqlite
+*.db
+
+# Model weights / checkpoints
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.npz
+*.h5
+*.onnx
+
+# ----------------------
+# DBT / Airflow specific
+# ----------------------
+target/
+dbt_modules/
+.airflow/
+logs/
+
+# ----------------------
+# OS files
+# ----------------------
+.DS_Store
+Thumbs.db

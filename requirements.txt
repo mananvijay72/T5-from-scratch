@@ -1,0 +1,6 @@
+numpy
+sentencepiece
+pyyaml
+tqdm
+pytest
+ipykernel
