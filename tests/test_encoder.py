@@ -1,4 +1,4 @@
-from model.encoder_block import EncoderBlock
+from encoder.encoder_block import EncoderBlock
 from core.tensor import Tensor
 import numpy as np
 
