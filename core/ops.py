@@ -34,7 +34,7 @@ def softmax(x: Tensor, axis: int = -1) -> Tensor:
 
     out = Tensor(
         out_data,
-        requires_grad=x.requires_grad,
+        requires_grad=True,
         _children=(x,),
         _op="softmax"
     )

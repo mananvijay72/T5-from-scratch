@@ -149,8 +149,16 @@ class Tensor:
         out._prev = {self}
         return out
 
+    def transpose(self, *axes):
+        """
+        Returns a transposed tensor.
+        If no axes are given, reverses the dimensions.
+        """
+        return Tensor(self.data.transpose(*axes), requires_grad=self.requires_grad)
+
     @property
-    def T(self): return Tensor(self.data.T, requires_grad=self.requires_grad)
+    def T(self):
+        return self.transpose()
 
     def reshape(self, *shape):
         if len(shape) == 1 and isinstance(shape[0], (tuple, list)):

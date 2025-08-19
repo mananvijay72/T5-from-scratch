@@ -1,9 +1,8 @@
 # linguaT5/train/trainer.py
 import time
 import numpy as np
-from model.transformer import Transformer
-from data.pretrain_dataset import PretrainDataset
-
+from transformer.transformer import Transformer
+from data_prep.data_collate import make_batch_from_jsonl_lines
 class Trainer:
     def __init__(self, config, tokenizer_model):
         self.model = Transformer(config)

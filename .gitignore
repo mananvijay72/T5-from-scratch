@@ -47,26 +47,3 @@ logs/
 
 
 
-# Model weights / checkpoints
-checkpoints/
-*.ckpt
-*.pt
-*.pth
-*.bin
-*.npz
-*.h5
-*.onnx
-
-# ----------------------
-# DBT / Airflow specific
-# ----------------------
-target/
-dbt_modules/
-.airflow/
-logs/
-
-# ----------------------
-# OS files
-# ----------------------
-.DS_Store
-Thumbs.db

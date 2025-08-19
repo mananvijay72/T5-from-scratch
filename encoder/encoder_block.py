@@ -1,6 +1,6 @@
-from encoder.attention import MultiHeadAttention
+from layers.attention import MultiHeadAttention
 from layers.feedforward import FeedForward
-from encoder.layers import LayerNorm
+from layers.layernorm import LayerNorm
 
 class EncoderBlock:
     def __init__(self, config):
@@ -10,8 +10,8 @@ class EncoderBlock:
         self.norm2 = LayerNorm(config["hidden_dim"])
         
 
-    def __call__(self, x):
-        x = self.norm1(x + self.attn(x)) # add and norm after attention
+    def __call__(self, x, padding_mask=None):
+        x = self.norm1(x + self.attn(x, padding_mask = padding_mask)) # add and norm after attention
         x = self.norm2(x + self.ff(x)) #add and norm after feedforward layer this new x will be input to next layer of encoder block  
         return x
     

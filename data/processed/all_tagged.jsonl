@@ -1,0 +1,8 @@
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> I love you.", "target": "मैं तुमसे प्यार करता हूँ।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Good morning.", "target": "सुप्रभात।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "es", "input": "<translate> <lang:es> I love you.", "target": "Te amo."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "es", "input": "<translate> <lang:es> Good morning.", "target": "Buenos días."}
+{"task": "summarize", "input": "<summarize> The city council recently passed a new regulation which aims to improve recycling across the city by introducing mandatory separation of waste at source and stricter penalties for violations.", "target": "The council passed a new recycling regulation."}
+{"task": "summarize", "input": "<summarize> Scientists published a long report showing that the new vaccine was effective after large trials conducted over several countries, demonstrating a significant drop in severe cases.", "target": "New report shows vaccine effective."}
+{"task": "qa", "input": "<qa> Context: The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. Question: It is located in which city?", "target": "Paris"}
+{"task": "qa", "input": "<qa> Context: Honeybees live in colonies and produce honey from the nectar of flowers. Question: What do honeybees produce from nectar?", "target": "Honey"}

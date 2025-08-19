@@ -1,0 +1,16 @@
+<translate> <lang:hi> I love you.
+मैं तुमसे प्यार करता हूँ।
+<translate> <lang:hi> Good morning.
+सुप्रभात।
+<translate> <lang:es> I love you.
+Te amo.
+<translate> <lang:es> Good morning.
+Buenos días.
+<summarize> The city council recently passed a new regulation which aims to improve recycling across the city by introducing mandatory separation of waste at source and stricter penalties for violations.
+The council passed a new recycling regulation.
+<summarize> Scientists published a long report showing that the new vaccine was effective after large trials conducted over several countries, demonstrating a significant drop in severe cases.
+New report shows vaccine effective.
+<qa> Context: The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. Question: It is located in which city?
+Paris
+<qa> Context: Honeybees live in colonies and produce honey from the nectar of flowers. Question: What do honeybees produce from nectar?
+Honey

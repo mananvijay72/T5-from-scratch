@@ -8,18 +8,10 @@ class LayerNorm:
         self.beta = Tensor(np.zeros((1, d_model)), requires_grad=True)
 
     def __call__(self, x: Tensor):
-        # Compute mean/var along last dimension
-        mean = np.mean(x.data, axis=-1, keepdims=True)
-        var = np.var(x.data, axis=-1, keepdims=True)
-
-        # Normalize
-        normed = (x.data - mean) / np.sqrt(var + self.eps)
-
-        # Wrap back into Tensor
-        normed = Tensor(normed, requires_grad=x.requires_grad)
-
-        # Scale + Shift
-        return self.gamma * normed + self.beta
+        mean = Tensor(np.mean(x.data, axis=-1, keepdims=True))
+        var = Tensor(np.var(x.data, axis=-1, keepdims=True))
+        norm = (x - mean) / (var + self.eps).sqrt()  # using exp for sqrt approximation
+        return self.gamma * norm + self.beta
     
     def parameters(self):
         return [self.gamma, self.beta]

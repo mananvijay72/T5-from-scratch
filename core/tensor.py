@@ -53,17 +53,38 @@ class Tensor:
     def dim(self):
         return self.data.ndim
 
-    @property
-    def T(self):
-        out = Tensor(self.data.T, requires_grad=self.requires_grad, _children=(self,), _op='T')
+    def transpose(self, *dims):
+        """
+        General transpose for Tensor with autograd support.
+        If no dims are given, reverse all dimensions (like numpy).
+        Example:
+            x.transpose(0, 2, 1)  # permutes axes
+        """
+        if len(dims) == 0:
+            # default: reverse all dimensions
+            dims = tuple(range(self.data.ndim))[::-1]
+
+        out = Tensor(
+            self.data.transpose(dims),
+            requires_grad=self.requires_grad,
+            _children=(self,),
+            _op="transpose"
+        )
+
         def _backward():
-            if self.requires_grad:
-                if out.grad is None:
-                    return
-                g = out.grad.T
+            if self.requires_grad and out.grad is not None:
+                # Transpose the gradient back using inverse permutation
+                inv_dims = np.argsort(dims)
+                g = out.grad.transpose(inv_dims)
                 self.grad = g if self.grad is None else self.grad + g
+
         out._backward = _backward
         return out
+    
+    @property
+    def T(self):
+        return self.transpose()
+
 
     def reshape(self, *shape):
         new_shape = shape if len(shape) > 1 else shape[0] if isinstance(shape[0], (tuple, list)) else shape
