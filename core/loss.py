@@ -1,10 +1,10 @@
 from core.tensor import Tensor
-import numpy as np
+import cupy as np
 
 def cross_entropy(logits: Tensor, targets: np.ndarray) -> Tensor:
     """
     logits: Tensor of shape (N, C)
-    targets: numpy array of shape (N,) with class indices
+    targets: cupy array of shape (N,) with class indices
     """
     # Shift for stability
     shifted = logits.data - np.max(logits.data, axis=1, keepdims=True)

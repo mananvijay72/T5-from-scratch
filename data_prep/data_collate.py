@@ -1,12 +1,21 @@
 # src/data_collate.py
-import numpy as np
+import cupy as np
+
+import cupy as np  # np is CuPy
 
 def pad_seqs(seqs, pad_id=0):
+    batch_size = len(seqs)
     max_len = max(len(s) for s in seqs)
-    return np.array(
-        [list(s) + [pad_id] * (max_len - len(s)) for s in seqs],
-        dtype=np.int32
-    )
+
+    # pre-allocate CuPy array on GPU
+    padded = np.full((batch_size, max_len), pad_id, dtype=np.int32)
+
+    # copy each sequence into the array
+    for i, s in enumerate(seqs):
+        padded[i, :len(s)] = np.array(s, dtype=np.int32)
+
+    return padded
+
 
 
 def make_batch_from_jsonl_lines(jsonl_lines, PAD_ID=0, EOS_ID=2, BOS_ID=1):
@@ -19,9 +28,9 @@ def make_batch_from_jsonl_lines(jsonl_lines, PAD_ID=0, EOS_ID=2, BOS_ID=1):
     tgt_ids    = [np.array(x["target_ids"], dtype=np.int32) for x in jsonl_lines]
 
     # decoder input: BOS + target_ids
-    dec_inputs  = [np.concatenate([[BOS_ID], t]) for t in tgt_ids]
+    dec_inputs  = [np.concatenate([np.array([BOS_ID], dtype=np.int32), t]) for t in tgt_ids]
     # decoder output (labels): target_ids + EOS
-    dec_outputs = [np.concatenate([t, [EOS_ID]]) for t in tgt_ids]
+    dec_outputs = [np.concatenate([t, np.array([EOS_ID], dtype=np.int32)]) for t in tgt_ids]
 
     # Pad all to uniform lengths
     enc_batch    = pad_seqs(enc_inputs, pad_id=PAD_ID)

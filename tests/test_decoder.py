@@ -1,6 +1,6 @@
 import numpy as np
-from transformer.t5encoder import T5Encoder
-from transformer.t5decoder import T5Decoder
+from encoder.t5encoder import T5Encoder
+from decoder.t5decoder import T5Decoder
 from core.tensor import Tensor
 
 CONFIG = {

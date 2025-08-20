@@ -1,4 +1,4 @@
-from transformer.t5encoder import T5Encoder
+from encoder.t5encoder import T5Encoder
 import numpy as np
 
 CONFIG = {

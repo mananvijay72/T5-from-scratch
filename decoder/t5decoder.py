@@ -1,4 +1,4 @@
-import numpy as np
+import cupy as np
 from decoder.decoder_block import DecoderBlock
 from layers.embeddings import PositionalEmbedding
 from core.tensor import Tensor

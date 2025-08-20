@@ -1,4 +1,4 @@
-import numpy as np
+import cupy as np
 import sentencepiece as spm
 from transformer.transformer import Transformer
 from core.tensor import Tensor

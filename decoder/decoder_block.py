@@ -2,7 +2,7 @@ from layers.attention import MultiHeadAttention
 from layers.feedforward import FeedForward
 from layers.layernorm import LayerNorm
 from core.tensor import Tensor
-import numpy as np
+import cupy as np
 
 class DecoderBlock:
     def __init__(self, config):

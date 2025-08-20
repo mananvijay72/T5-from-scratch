@@ -1,5 +1,5 @@
 from core.tensor import Tensor
-import numpy as np
+import cupy as np
 from core.ops import relu
 
 class FeedForward:

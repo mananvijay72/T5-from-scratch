@@ -1,9 +1,11 @@
 import sentencepiece as spm
 from transformer.transformer import Transformer
-import numpy as np
+import cupy as np
 from core.loss import cross_entropy
 from core.optimizers import SGD
 from config import config
+import os
+
 
 
 
@@ -23,7 +25,7 @@ def predict(text, model_path):
     model = load_model(weights_path= model_path)
     return model.predict(sp = spm, text= text, max_len=512)
 
-def train_model(data_file, epochs=20, batch_size=2, lr=0.001, save_path="T5.npz"):
+def train_model(data_file, epochs=20, batch_size=20, lr=0.001, save_path="T5.npz"):
 
     model = Transformer(config)
     opt = SGD(model.parameters(), lr=lr)
@@ -32,6 +34,7 @@ def train_model(data_file, epochs=20, batch_size=2, lr=0.001, save_path="T5.npz"
 
 
 if __name__ == "__main__":
-    #train_model(data_file="data/processed/tokenized/train.jsonl", epochs=5, batch_size = 50, save_path=r"T5_en_hi.npz")
+    os.add_dll_directory(r"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\bin")
+    train_model(data_file="data/processed/tokenized/train.jsonl", epochs=50, batch_size = 20, save_path=r"T5_en_hi.npz")
     print(predict(text="Translate ENglish to hindi: I love you", model_path="T5_en_hi.npz"))
      

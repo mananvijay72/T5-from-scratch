@@ -1,5 +1,5 @@
 from core.tensor import Tensor
-import numpy as np
+import cupy as np
 
 class LayerNorm:
     def __init__(self, d_model, eps=1e-6):

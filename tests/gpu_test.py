@@ -1,4 +1,4 @@
-import cupy as cp
+import numpy as cp
 import time
 
 start = time.time()

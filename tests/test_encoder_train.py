@@ -1,6 +1,6 @@
 import numpy as np
 import time
-from transformer.t5encoder import T5Encoder
+from encoder.t5encoder import T5Encoder
 from core.tensor import Tensor
 
 CONFIG = {

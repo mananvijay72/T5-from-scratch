@@ -3,16 +3,16 @@
 # - sum and gather accept axis/dim arguments
 # - Backprop handles broadcasting and batched matmul
 # - Includes small tests demonstrating gradients on batch tensors
-import numpy as np
+import cupy as cp
 
 # Utility helpers
 def ensure_numpy(x):
     if isinstance(x, Tensor):
         return x.data
-    elif isinstance(x, (np.ndarray, float, int)):
-        return np.array(x) if not isinstance(x, np.ndarray) else x
+    elif isinstance(x, (cp.ndarray, float, int)):
+        return cp.array(x) if not isinstance(x, cp.ndarray) else x
     else:
-        return np.array(x)
+        return cp.array(x)
 
 def _unbroadcast(grad, shape):
     # Sum out broadcasted dimensions so grad matches `shape`.
@@ -31,11 +31,11 @@ def _unbroadcast(grad, shape):
 class Tensor:
     def __init__(self, data, requires_grad=False, _children=(), _op=''):
         if isinstance(data, (list, tuple)):
-            data = np.array(data)
+            data = cp.array(data)
         elif isinstance(data, Tensor):
             data = data.data.copy()
-        elif not isinstance(data, np.ndarray):
-            data = np.array(data)
+        elif not isinstance(data, cp.ndarray):
+            data = cp.array(data)
         self.data = data.astype(float)
         self.requires_grad = requires_grad
         self.grad = None
@@ -74,7 +74,7 @@ class Tensor:
         def _backward():
             if self.requires_grad and out.grad is not None:
                 # Transpose the gradient back using inverse permutation
-                inv_dims = np.argsort(dims)
+                inv_dims = cp.argsort(dims)
                 g = out.grad.transpose(inv_dims)
                 self.grad = g if self.grad is None else self.grad + g
 
@@ -105,7 +105,7 @@ class Tensor:
 
     # Operator helpers for binary ops with broadcasting
     def _binary_op(self, other, op_name, forward, grad_self, grad_other):
-        other_data = other.data if isinstance(other, Tensor) else np.array(other)
+        other_data = other.data if isinstance(other, Tensor) else cp.array(other)
         out_data = forward(self.data, other_data)
         requires = self.requires_grad or (other.requires_grad if isinstance(other, Tensor) else False)
         out = Tensor(
@@ -190,7 +190,7 @@ class Tensor:
                 self.grad = g_self if self.grad is None else self.grad + g_self
             if isinstance(power, Tensor) and power.requires_grad:
                 # d/dp a^p = a^p * log(a)
-                g_p = out.grad * (self.data ** power_val) * np.log(self.data + 1e-20)
+                g_p = out.grad * (self.data ** power_val) * cp.log(self.data + 1e-20)
                 g_p = _unbroadcast(g_p, power.shape)
                 power.grad = g_p if power.grad is None else power.grad + g_p
         out._backward = _backward
@@ -202,7 +202,7 @@ class Tensor:
 
     # exp, log
     def exp(self):
-        out = Tensor(np.exp(self.data), requires_grad=self.requires_grad, _children=(self,), _op='exp')
+        out = Tensor(cp.exp(self.data), requires_grad=self.requires_grad, _children=(self,), _op='exp')
         def _backward():
             if self.requires_grad and out.grad is not None:
                 g = out.grad * out.data  # exp(x) derivative is exp(x)
@@ -211,7 +211,7 @@ class Tensor:
         return out
 
     def log(self):
-        out = Tensor(np.log(self.data + 1e-20), requires_grad=self.requires_grad, _children=(self,), _op='log')
+        out = Tensor(cp.log(self.data + 1e-20), requires_grad=self.requires_grad, _children=(self,), _op='log')
         def _backward():
             if self.requires_grad and out.grad is not None:
                 g = out.grad / (self.data + 1e-20)
@@ -219,9 +219,9 @@ class Tensor:
         out._backward = _backward
         return out
 
-    # Matrix multiplication (supports batched matmul via np.matmul)
+    # Matrix multiplication (supports batched matmul via cp.matmul)
     def __matmul__(self, other):
-        other_data = other.data if isinstance(other, Tensor) else np.array(other)
+        other_data = other.data if isinstance(other, Tensor) else cp.array(other)
         out_data = self.data @ other_data
         requires = self.requires_grad or (other.requires_grad if isinstance(other, Tensor) else False)
         out = Tensor(
@@ -237,11 +237,11 @@ class Tensor:
             g = out.grad
             if self.requires_grad:
                 # grad wrt a: g @ b.T (with proper broadcasting)
-                grad_a = g @ np.swapaxes(other_data, -1, -2)
+                grad_a = g @ cp.swapaxes(other_data, -1, -2)
                 grad_a = _unbroadcast(grad_a, self.shape)
                 self.grad = grad_a if self.grad is None else self.grad + grad_a
             if isinstance(other, Tensor) and other.requires_grad:
-                grad_b = np.swapaxes(self.data, -1, -2) @ g
+                grad_b = cp.swapaxes(self.data, -1, -2) @ g
                 grad_b = _unbroadcast(grad_b, other.shape)
                 other.grad = grad_b if other.grad is None else other.grad + grad_b
         out._backward = _backward
@@ -265,7 +265,7 @@ class Tensor:
                         shape[ax] = 1
                     grad = grad.reshape(shape)
                 # broadcast to self.shape
-                grad = np.broadcast_to(grad, self.shape)
+                grad = cp.broadcast_to(grad, self.shape)
                 self.grad = grad if self.grad is None else self.grad + grad
         out._backward = _backward
         return out
@@ -296,7 +296,7 @@ class Tensor:
                     for ax in axes:
                         shape[ax] = 1
                     grad = grad.reshape(shape)
-                grad = np.broadcast_to(grad, self.shape) / denom
+                grad = cp.broadcast_to(grad, self.shape) / denom
                 self.grad = grad if self.grad is None else self.grad + grad
         out._backward = _backward
         return out
@@ -304,12 +304,12 @@ class Tensor:
     # gather with dim/axis
     # index is expected to be integer Tensor with indices along `dim`
     def gather(self, dim, index):
-        idx = index.data.astype(int) if isinstance(index, Tensor) else np.array(index).astype(int)
+        idx = index.data.astype(int) if isinstance(index, Tensor) else cp.array(index).astype(int)
 
         # Forward: pick elements
-        out_data = np.take_along_axis(
+        out_data = cp.take_along_axis(
             self.data,
-            np.expand_dims(idx, axis=-1) if self.data.ndim > idx.ndim else idx,
+            cp.expand_dims(idx, axis=-1) if self.data.ndim > idx.ndim else idx,
             axis=dim
         )
 
@@ -320,10 +320,10 @@ class Tensor:
 
         def _backward():
             if self.requires_grad:
-                grad = np.zeros_like(self.data)
+                grad = cp.zeros_like(self.data)
 
                 # Scatter-add gradients back to the source tensor
-                np.add.at(grad, tuple(idx.T) if idx.ndim > 1 else idx, out.grad)
+                cp.add.at(grad, tuple(idx.T) if idx.ndim > 1 else idx, out.grad)
 
                 if self.grad is None:
                     self.grad = grad
@@ -348,7 +348,7 @@ class Tensor:
         if not self.requires_grad:
             return
         if grad is None:
-            grad = np.ones_like(self.data)
+            grad = cp.ones_like(self.data)
         self.grad = grad if self.grad is None else self.grad + grad
         topo = []
         visited = set()

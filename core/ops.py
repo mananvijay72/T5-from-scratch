@@ -1,4 +1,4 @@
-import numpy as np
+import cupy as np
 from core.tensor import Tensor
 
 def relu(x: Tensor) -> Tensor:

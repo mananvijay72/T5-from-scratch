@@ -1,6 +1,6 @@
 import numpy as np
 from core.tensor import Tensor
-from encoder.embeddings import EmbeddingLayer, PositionalEmbedding
+from layers.embeddings import EmbeddingLayer, PositionalEmbedding
 
 # ----- Test EmbeddingLayer -----
 batch, seq_len, vocab_size, hidden_dim = 2, 3, 10, 4

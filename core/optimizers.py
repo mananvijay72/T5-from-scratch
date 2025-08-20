@@ -1,4 +1,4 @@
-import numpy as np
+import cupy as np
 
 class SGD:
     def __init__(self, params, lr=0.01):
