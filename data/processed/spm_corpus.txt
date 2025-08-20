@@ -1,16 +1,2000 @@
-<translate> <lang:hi> I love you.
-मैं तुमसे प्यार करता हूँ।
-<translate> <lang:hi> Good morning.
-सुप्रभात।
-<translate> <lang:es> I love you.
-Te amo.
-<translate> <lang:es> Good morning.
-Buenos días.
-<summarize> The city council recently passed a new regulation which aims to improve recycling across the city by introducing mandatory separation of waste at source and stricter penalties for violations.
-The council passed a new recycling regulation.
-<summarize> Scientists published a long report showing that the new vaccine was effective after large trials conducted over several countries, demonstrating a significant drop in severe cases.
-New report shows vaccine effective.
-<qa> Context: The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. Question: It is located in which city?
-Paris
-<qa> Context: Honeybees live in colonies and produce honey from the nectar of flowers. Question: What do honeybees produce from nectar?
-Honey
+<translate> <lang:hi> Give your application an accessibility workout
+अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें
+<translate> <lang:hi> Accerciser Accessibility Explorer
+एक्सेर्साइसर पहुंचनीयता अन्वेषक
+<translate> <lang:hi> The default plugin layout for the bottom panel
+निचले पटल के लिए डिफोल्ट प्लग-इन खाका
+<translate> <lang:hi> The default plugin layout for the top panel
+ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका
+<translate> <lang:hi> A list of plugins that are disabled by default
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+<translate> <lang:hi> Highlight duration
+अवधि को हाइलाइट रकें
+<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes
+पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि
+<translate> <lang:hi> Highlight border color
+सीमांत (बोर्डर) के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight border.
+हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।
+<translate> <lang:hi> Highlight fill color
+भराई के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight fill.
+हाइलाइट किया गया भराई का रंग और पारदर्शिता।
+<translate> <lang:hi> API Browser
+एपीआई विचरक
+<translate> <lang:hi> Browse the various methods of the current accessible
+इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें
+<translate> <lang:hi> Hide private attributes
+निजी गुणों को छिपाएं
+<translate> <lang:hi> Method
+विधि
+<translate> <lang:hi> Property
+गुणधर्म
+<translate> <lang:hi> Value
+मान
+<translate> <lang:hi> IPython Console
+आईपाइथन कन्सोल
+<translate> <lang:hi> Interactive console for manipulating currently selected accessible
+इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल
+<translate> <lang:hi> Event monitor
+घटना मानिटर
+<translate> <lang:hi> _ Monitor Events
+घटनाओं को मानिटर करें (_ M)
+<translate> <lang:hi> C _ lear Selection
+चुनाव को हटाएं (C _)
+<translate> <lang:hi> Everything
+सभी
+<translate> <lang:hi> Selected application
+चुने गए अनुप्रयोग
+<translate> <lang:hi> Selected accessible
+चुने गए एक्सेसेबेल
+<translate> <lang:hi> Source
+स्रोत
+<translate> <lang:hi> Event Monitor
+घटना मानिटर
+<translate> <lang:hi> Shows events as they occur from selected types and sources
+चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है
+<translate> <lang:hi> Highlight last event entry
+अंतिम प्रविष्ट घटना को हाइलाइट करो
+<translate> <lang:hi> Start / stop event recording
+घटना रेकोर्डिंग शुरू करो/रोको
+<translate> <lang:hi> Clear event log
+घटना रोजनामचा मिटाओ
+<translate> <lang:hi> (no description)
+कोई विवरण नहीं
+<translate> <lang:hi> Description
+वर्णन
+<translate> <lang:hi> Show
+दिखाएं
+<translate> <lang:hi> _ Accessible
+पहुंचनीय
+<translate> <lang:hi> Perform action
+कार्रवाई संपन्न करें
+<translate> <lang:hi> Acti _ on
+कार्रवाई (_ o)
+<translate> <lang:hi> ID
+आईडी
+<translate> <lang:hi> Toolkit
+औजार बक्सा
+<translate> <lang:hi> Version
+संस्करण
+<translate> <lang:hi> Ap _ plication
+अनुप्रयोग
+<translate> <lang:hi> Col _ lection
+संग्रह
+<translate> <lang:hi> 0, 0
+0, 0
+<translate> <lang:hi> Relative position
+सापेक्ष स्थिति
+<translate> <lang:hi> Size
+आकार
+<translate> <lang:hi> WIDGET
+विडजेट
+<translate> <lang:hi> Layer
+स्तर
+<translate> <lang:hi> MDI - Z - order
+एमडीआई-जेड-क्रम
+<translate> <lang:hi> Alpha
+अल्फा
+<translate> <lang:hi> Absolute position
+निरपेक्ष स्थिति
+<translate> <lang:hi> Co _ mponent
+घटक
+<translate> <lang:hi> Des _ ktop
+डेस्कटोप
+<translate> <lang:hi> Locale:
+स्थान-विशिष्टः
+<translate> <lang:hi> _ Document
+प्रलेख
+<translate> <lang:hi> Hyperlink
+हाइपरकड़ी
+<translate> <lang:hi> H _ ypertext
+हाइपरपाठ
+<translate> <lang:hi> Position
+स्थिति
+<translate> <lang:hi> Description
+वर्णन
+<translate> <lang:hi> Locale
+स्थान-विशिष्ट
+<translate> <lang:hi> _ Image
+छवि (_ I)
+<translate> <lang:hi> Lo _ gin Helper
+प्रवेश सहायक
+<translate> <lang:hi> Select All
+सभी चुनें
+<translate> <lang:hi> _ Selection
+चयन (_ S)
+<translate> <lang:hi> St _ reamable Content
+प्रवाहित करनेयोग्य विषयवस्तु
+<translate> <lang:hi> Selected columns
+चुने गए स्तंभ
+<translate> <lang:hi> Selected rows
+चुनी गई पंक्तियां
+<translate> <lang:hi> Columns
+स्तंभ
+<translate> <lang:hi> Rows
+पंक्तियां
+<translate> <lang:hi> Table Information
+& lt; bgt; सारणी सूचनाlt;/bgt;
+<translate> <lang:hi> name (x, y)
+नाम (x, y)
+<translate> <lang:hi> Header:
+शीर्षकः
+<translate> <lang:hi> Extents:
+विस्तारः
+<translate> <lang:hi> Row
+पंक्ति
+<translate> <lang:hi> Column
+स्तंभ
+<translate> <lang:hi> Selected Cell
+& lt; bgt; चुनी गई कोशिकाlt;/bgt;
+<translate> <lang:hi> _ Table
+सारणी (_ T)
+<translate> <lang:hi> Offset
+ओफसेट
+<translate> <lang:hi> Include defaults
+डिफोल्टों को शामिल करें
+<translate> <lang:hi> Te _ xt
+पाठ (_ x)
+<translate> <lang:hi> Current value
+मौजूदा मान
+<translate> <lang:hi> Minimum increment
+न्यूनतम वृद्धि
+<translate> <lang:hi> Maximum value
+अधिकतम मान
+<translate> <lang:hi> Minimum value
+न्यूनतम मान
+<translate> <lang:hi> Val _ ue
+मान
+<translate> <lang:hi> Interface Viewer
+अंतराफलक दर्शक
+<translate> <lang:hi> Allows viewing of various interface properties
+अंतराफलक के विभिन्न गुणों को देखने देता है
+<translate> <lang:hi> (not implemented)
+(क्रियान्वित नहीं हुआ है)
+<translate> <lang:hi> Name
+नाम
+<translate> <lang:hi> URI
+यूआरआई
+<translate> <lang:hi> Start
+प्रारंभ
+<translate> <lang:hi> End
+अंत
+<translate> <lang:hi> Too many selectable children
+बहुत अधिक चयनीय शिशु हैं
+<translate> <lang:hi> Quick Select
+तेज चुनाव
+<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.
+प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां
+<translate> <lang:hi> Inspect last focused accessible
+अंतिम बार फोकस किए गए एक्सेसेबल को जांचें
+<translate> <lang:hi> Inspect accessible under mouse
+माउस के अधीन जो एक्सेसेबल है, उसे जांचें
+<translate> <lang:hi> Native
+वतनी
+<translate> <lang:hi> Dogtail
+श्वानपुच्छ
+<translate> <lang:hi> LDTP
+एलडीटीपी
+<translate> <lang:hi> Script Type
+लिपि प्रकार
+<translate> <lang:hi> Script Recorder
+लिपि रेकोर्डर
+<translate> <lang:hi> Creates dogtail style scripts
+श्वानपुच्छ शैली की लिपियां निर्मित करता है
+<translate> <lang:hi> The current script will be lost.
+वर्तमान लिपि (स्क्रिप्ट) खो जाएगी।
+<translate> <lang:hi> Confirm clear
+मिटाने की पुष्टि करें
+<translate> <lang:hi> Sche _ ma:
+स्कीमाः
+<translate> <lang:hi> V _ alidate
+सत्यापन
+<translate> <lang:hi> Idle
+खाली
+<translate> <lang:hi> No description
+कोई विवरण नहीं
+<translate> <lang:hi> AT - SPI Validator
+एटी-एसपीआई सत्यापक
+<translate> <lang:hi> Validates application accessibility
+अनुप्रयोग की पहुंचनीयता का सत्यापन करता है
+<translate> <lang:hi> Level
+स्तर
+<translate> <lang:hi> Role
+भूमिका
+<translate> <lang:hi> Saving
+सहेज रहे हैं
+<translate> <lang:hi> Validating
+पुष्टि कर रहे हैं
+<translate> <lang:hi> EXCEPT
+अपवाद
+<translate> <lang:hi> ERROR
+त्रुटि
+<translate> <lang:hi> WARN
+चेतावनी
+<translate> <lang:hi> INFO
+सूचना
+<translate> <lang:hi> DEBUG
+दोषमुक्त करें
+<translate> <lang:hi> Basic
+मूल
+<translate> <lang:hi> Tests fundamental GUI application accessibility
+मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है
+<translate> <lang:hi> actionable% s is not focusable or selectable
+% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय
+<translate> <lang:hi> interactive% s is not actionable
+अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है
+<translate> <lang:hi> more than one focused widget
+एक से अधिक विडजेट फोकस में है
+<translate> <lang:hi> % s has no text interface
+% s का कोई पाठ अंतराफलक नहीं है
+<translate> <lang:hi> % s index in parent does not match child index
+अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती
+<translate> <lang:hi> Missing reciprocal for% s relation
+% s संबंध के लिए अन्योन्य गायब है
+<translate> <lang:hi> % s missing name or label
+% s गायब नाम या सूचक
+<translate> <lang:hi> focusable% s has table interface, no selection interface
+फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state
+<translate> <lang:hi> % s has% s state without% s state
+% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है
+<translate> <lang:hi> % s does not belong to a set
+% s किसी समुच्चय का सदस्य नहीं है
+<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column
+% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index
+<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते
+<translate> <lang:hi> % s has no name or description
+% s का कोई नाम या विवरण नहीं
+<translate> <lang:hi> _ Preferences...
+पसंद (_ P)...
+<translate> <lang:hi> _ Contents
+विषय सूची (_ C)
+<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?
+<translate> <lang:hi> Note: Changes only take effect after logout.
+टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।
+<translate> <lang:hi> Children
+शिशु
+<translate> <lang:hi> _ Refresh Registry
+पंजी ताजा करें (_ R)
+<translate> <lang:hi> Refresh all
+सभी को ताजा करें
+<translate> <lang:hi> Refresh _ Node
+आसंधि (नोड) को ताजा करें (_ N)
+<translate> <lang:hi> Refresh selected node 's children
+चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें
+<translate> <lang:hi> Component
+घटक
+<translate> <lang:hi> Task
+कार्य
+<translate> <lang:hi> Key
+कुंजी
+<translate> <lang:hi> Alt
+आल्ट
+<translate> <lang:hi> Ctrl
+कंट्रोल
+<translate> <lang:hi> Shift
+शिफ्ट
+<translate> <lang:hi> Top panel
+ऊपरी पटल
+<translate> <lang:hi> Bottom panel
+निचला पटल
+<translate> <lang:hi> accerciser Preferences
+एक्सेर्साइसर पसंद
+<translate> <lang:hi> Plugins
+प्लगइन्स
+<translate> <lang:hi> Global Hotkeys
+सार्वत्रिक फटाफट कुंजियां
+<translate> <lang:hi> Highlighting
+हाइलाइटन
+<translate> <lang:hi> Highlight duration:
+हाइलाइट अवधिः
+<translate> <lang:hi> Border color:
+सीमांत रंगः
+<translate> <lang:hi> The border color of the highlight box
+हाइलाइट बक्से का सीमांत रंग
+<translate> <lang:hi> Fill color:
+भराई का रंगः
+<translate> <lang:hi> The fill color of the highlight box
+हाइलाइट बक्से का भराई रंग
+<translate> <lang:hi> translator - credits
+रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)
+<translate> <lang:hi> An interactive Python accessibility explorer
+एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक
+<translate> <lang:hi> accerciser Copyright © 2006, 2007 IBM Corporation (BSD)
+एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी)
+<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.
+नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें
+<translate> <lang:hi> Web site
+जाल स्थल
+<translate> <lang:hi> _ Add Bookmark...
+पसंद जोड़ें... (_ A)
+<translate> <lang:hi> Bookmark selected accessible.
+चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें
+<translate> <lang:hi> _ Edit Bookmarks...
+पुस्तक चिह्न संपादित करें (_ E)...
+<translate> <lang:hi> Manage bookmarks.
+पुस्तक-चिह्नों को प्रबंधित करें।
+<translate> <lang:hi> Edit Bookmarks...
+पुस्तक चिह्नों को संपादित करें...
+<translate> <lang:hi> Title
+शीर्षक
+<translate> <lang:hi> Application
+अनुप्रयोग
+<translate> <lang:hi> Path
+पथ
+<translate> <lang:hi> Add Bookmark...
+पुस्तक-चिह्न जोड़ें...
+<translate> <lang:hi> Title:
+शीर्षकः
+<translate> <lang:hi> Application:
+अनुप्रयोगः
+<translate> <lang:hi> Path:
+पथः
+<translate> <lang:hi> Plugin Errors
+प्लग-इन त्रुटियां
+<translate> <lang:hi> View
+दृश्य
+<translate> <lang:hi> No view
+कोई दृश्य नहीं है
+<translate> <lang:hi> _ Single plugins view
+एकल प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View
+प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View (% d)
+प्लग-इन दृश्य (% d)
+<translate> <lang:hi> _ New view...
+नया दृश्य...
+<translate> <lang:hi> New View...
+नया दृश्य...
+<translate> <lang:hi> _ File
+फाइल (F)
+<translate> <lang:hi> _ Edit
+संपादित करें
+<translate> <lang:hi> _ Bookmarks
+पुस्तक-चिह्न संपादित करें (_ E)...
+<translate> <lang:hi> _ View
+दृश्य _ (V)
+<translate> <lang:hi> _ Help
+मदद
+<translate> <lang:hi> Full name
+पूरा नाम
+<translate> <lang:hi> Key binding
+कुंजी बंधन
+<translate> <lang:hi> Content type
+विषय प्रकार
+<translate> <lang:hi> Give your application an accessibility workout
+अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें
+<translate> <lang:hi> Accerciser Accessibility Explorer
+एक्सेर्साइसर पहुंचनीयता अन्वेषक
+<translate> <lang:hi> The default plugin layout for the bottom panel
+निचले पटल के लिए डिफोल्ट प्लग-इन खाका
+<translate> <lang:hi> The default plugin layout for the top panel
+ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका
+<translate> <lang:hi> A list of plugins that are disabled by default
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+<translate> <lang:hi> Highlight duration
+अवधि को हाइलाइट रकें
+<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes
+पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि
+<translate> <lang:hi> Highlight border color
+सीमांत (बोर्डर) के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight border.
+हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।
+<translate> <lang:hi> Highlight fill color
+भराई के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight fill.
+हाइलाइट किया गया भराई का रंग और पारदर्शिता।
+<translate> <lang:hi> API Browser
+एपीआई विचरक
+<translate> <lang:hi> Browse the various methods of the current accessible
+इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें
+<translate> <lang:hi> Hide private attributes
+निजी गुणों को छिपाएं
+<translate> <lang:hi> Method
+विधि
+<translate> <lang:hi> Property
+गुणधर्म
+<translate> <lang:hi> Value
+मान
+<translate> <lang:hi> IPython Console
+आईपाइथन कन्सोल
+<translate> <lang:hi> Interactive console for manipulating currently selected accessible
+इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल
+<translate> <lang:hi> Event monitor
+घटना मानिटर
+<translate> <lang:hi> _ Monitor Events
+घटनाओं को मानिटर करें (_ M)
+<translate> <lang:hi> C _ lear Selection
+चुनाव को हटाएं (C _)
+<translate> <lang:hi> Everything
+सभी
+<translate> <lang:hi> Selected application
+चुने गए अनुप्रयोग
+<translate> <lang:hi> Selected accessible
+चुने गए एक्सेसेबेल
+<translate> <lang:hi> Source
+स्रोत
+<translate> <lang:hi> Event Monitor
+घटना मानिटर
+<translate> <lang:hi> Shows events as they occur from selected types and sources
+चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है
+<translate> <lang:hi> Highlight last event entry
+अंतिम प्रविष्ट घटना को हाइलाइट करो
+<translate> <lang:hi> Start / stop event recording
+घटना रेकोर्डिंग शुरू करो/रोको
+<translate> <lang:hi> Clear event log
+घटना रोजनामचा मिटाओ
+<translate> <lang:hi> (no description)
+कोई विवरण नहीं
+<translate> <lang:hi> Description
+वर्णन
+<translate> <lang:hi> Show
+दिखाएं
+<translate> <lang:hi> _ Accessible
+पहुंचनीय
+<translate> <lang:hi> Perform action
+कार्रवाई संपन्न करें
+<translate> <lang:hi> Acti _ on
+कार्रवाई (_ o)
+<translate> <lang:hi> ID
+आईडी
+<translate> <lang:hi> Toolkit
+औजार बक्सा
+<translate> <lang:hi> Version
+संस्करण
+<translate> <lang:hi> Ap _ plication
+अनुप्रयोग
+<translate> <lang:hi> Col _ lection
+संग्रह
+<translate> <lang:hi> 0, 0
+0, 0
+<translate> <lang:hi> Relative position
+सापेक्ष स्थिति
+<translate> <lang:hi> Size
+आकार
+<translate> <lang:hi> WIDGET
+विडजेट
+<translate> <lang:hi> Layer
+स्तर
+<translate> <lang:hi> MDI - Z - order
+एमडीआई-जेड-क्रम
+<translate> <lang:hi> Alpha
+अल्फा
+<translate> <lang:hi> Absolute position
+निरपेक्ष स्थिति
+<translate> <lang:hi> Co _ mponent
+घटक
+<translate> <lang:hi> Des _ ktop
+डेस्कटोप
+<translate> <lang:hi> Locale:
+स्थान-विशिष्टः
+<translate> <lang:hi> _ Document
+प्रलेख
+<translate> <lang:hi> Hyperlink
+हाइपरकड़ी
+<translate> <lang:hi> H _ ypertext
+हाइपरपाठ
+<translate> <lang:hi> Position
+स्थिति
+<translate> <lang:hi> Description
+वर्णन
+<translate> <lang:hi> Locale
+स्थान-विशिष्ट
+<translate> <lang:hi> _ Image
+छवि (_ I)
+<translate> <lang:hi> Lo _ gin Helper
+प्रवेश सहायक
+<translate> <lang:hi> Select All
+सभी चुनें
+<translate> <lang:hi> _ Selection
+चयन (_ S)
+<translate> <lang:hi> St _ reamable Content
+प्रवाहित करनेयोग्य विषयवस्तु
+<translate> <lang:hi> Selected columns
+चुने गए स्तंभ
+<translate> <lang:hi> Selected rows
+चुनी गई पंक्तियां
+<translate> <lang:hi> Columns
+स्तंभ
+<translate> <lang:hi> Rows
+पंक्तियां
+<translate> <lang:hi> Table Information
+& lt; bgt; सारणी सूचनाlt;/bgt;
+<translate> <lang:hi> name (x, y)
+नाम (x, y)
+<translate> <lang:hi> Header:
+शीर्षकः
+<translate> <lang:hi> Extents:
+विस्तारः
+<translate> <lang:hi> Row
+पंक्ति
+<translate> <lang:hi> Column
+स्तंभ
+<translate> <lang:hi> Selected Cell
+& lt; bgt; चुनी गई कोशिकाlt;/bgt;
+<translate> <lang:hi> _ Table
+सारणी (_ T)
+<translate> <lang:hi> Offset
+ओफसेट
+<translate> <lang:hi> Include defaults
+डिफोल्टों को शामिल करें
+<translate> <lang:hi> Te _ xt
+पाठ (_ x)
+<translate> <lang:hi> Current value
+मौजूदा मान
+<translate> <lang:hi> Minimum increment
+न्यूनतम वृद्धि
+<translate> <lang:hi> Maximum value
+अधिकतम मान
+<translate> <lang:hi> Minimum value
+न्यूनतम मान
+<translate> <lang:hi> Val _ ue
+मान
+<translate> <lang:hi> Interface Viewer
+अंतराफलक दर्शक
+<translate> <lang:hi> Allows viewing of various interface properties
+अंतराफलक के विभिन्न गुणों को देखने देता है
+<translate> <lang:hi> (not implemented)
+(क्रियान्वित नहीं हुआ है)
+<translate> <lang:hi> Name
+नाम
+<translate> <lang:hi> URI
+यूआरआई
+<translate> <lang:hi> Start
+प्रारंभ
+<translate> <lang:hi> End
+अंत
+<translate> <lang:hi> Too many selectable children
+बहुत अधिक चयनीय शिशु हैं
+<translate> <lang:hi> Quick Select
+तेज चुनाव
+<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.
+प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां
+<translate> <lang:hi> Inspect last focused accessible
+अंतिम बार फोकस किए गए एक्सेसेबल को जांचें
+<translate> <lang:hi> Inspect accessible under mouse
+माउस के अधीन जो एक्सेसेबल है, उसे जांचें
+<translate> <lang:hi> Native
+वतनी
+<translate> <lang:hi> Dogtail
+श्वानपुच्छ
+<translate> <lang:hi> LDTP
+एलडीटीपी
+<translate> <lang:hi> Script Type
+लिपि प्रकार
+<translate> <lang:hi> Script Recorder
+लिपि रेकोर्डर
+<translate> <lang:hi> Creates dogtail style scripts
+श्वानपुच्छ शैली की लिपियां निर्मित करता है
+<translate> <lang:hi> The current script will be lost.
+वर्तमान लिपि (स्क्रिप्ट) खो जाएगी।
+<translate> <lang:hi> Confirm clear
+मिटाने की पुष्टि करें
+<translate> <lang:hi> Sche _ ma:
+स्कीमाः
+<translate> <lang:hi> V _ alidate
+सत्यापन
+<translate> <lang:hi> Idle
+खाली
+<translate> <lang:hi> No description
+कोई विवरण नहीं
+<translate> <lang:hi> AT - SPI Validator
+एटी-एसपीआई सत्यापक
+<translate> <lang:hi> Validates application accessibility
+अनुप्रयोग की पहुंचनीयता का सत्यापन करता है
+<translate> <lang:hi> Level
+स्तर
+<translate> <lang:hi> Role
+भूमिका
+<translate> <lang:hi> Saving
+सहेज रहे हैं
+<translate> <lang:hi> Validating
+पुष्टि कर रहे हैं
+<translate> <lang:hi> EXCEPT
+अपवाद
+<translate> <lang:hi> ERROR
+त्रुटि
+<translate> <lang:hi> WARN
+चेतावनी
+<translate> <lang:hi> INFO
+सूचना
+<translate> <lang:hi> DEBUG
+दोषमुक्त करें
+<translate> <lang:hi> Basic
+मूल
+<translate> <lang:hi> Tests fundamental GUI application accessibility
+मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है
+<translate> <lang:hi> actionable% s is not focusable or selectable
+% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय
+<translate> <lang:hi> interactive% s is not actionable
+अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है
+<translate> <lang:hi> more than one focused widget
+एक से अधिक विडजेट फोकस में है
+<translate> <lang:hi> % s has no text interface
+% s का कोई पाठ अंतराफलक नहीं है
+<translate> <lang:hi> % s index in parent does not match child index
+अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती
+<translate> <lang:hi> Missing reciprocal for% s relation
+% s संबंध के लिए अन्योन्य गायब है
+<translate> <lang:hi> % s missing name or label
+% s गायब नाम या सूचक
+<translate> <lang:hi> focusable% s has table interface, no selection interface
+फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state
+<translate> <lang:hi> % s has% s state without% s state
+% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है
+<translate> <lang:hi> % s does not belong to a set
+% s किसी समुच्चय का सदस्य नहीं है
+<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column
+% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index
+<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते
+<translate> <lang:hi> % s has no name or description
+% s का कोई नाम या विवरण नहीं
+<translate> <lang:hi> _ Preferences...
+पसंद (_ P)...
+<translate> <lang:hi> _ Contents
+विषय सूची (_ C)
+<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?
+<translate> <lang:hi> Note: Changes only take effect after logout.
+टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।
+<translate> <lang:hi> Children
+शिशु
+<translate> <lang:hi> _ Refresh Registry
+पंजी ताजा करें (_ R)
+<translate> <lang:hi> Refresh all
+सभी को ताजा करें
+<translate> <lang:hi> Refresh _ Node
+आसंधि (नोड) को ताजा करें (_ N)
+<translate> <lang:hi> Refresh selected node 's children
+चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें
+<translate> <lang:hi> Component
+घटक
+<translate> <lang:hi> Task
+कार्य
+<translate> <lang:hi> Key
+कुंजी
+<translate> <lang:hi> Alt
+आल्ट
+<translate> <lang:hi> Ctrl
+कंट्रोल
+<translate> <lang:hi> Shift
+शिफ्ट
+<translate> <lang:hi> Top panel
+ऊपरी पटल
+<translate> <lang:hi> Bottom panel
+निचला पटल
+<translate> <lang:hi> accerciser Preferences
+एक्सेर्साइसर पसंद
+<translate> <lang:hi> Plugins
+प्लगइन्स
+<translate> <lang:hi> Global Hotkeys
+सार्वत्रिक फटाफट कुंजियां
+<translate> <lang:hi> Highlighting
+हाइलाइटन
+<translate> <lang:hi> Highlight duration:
+हाइलाइट अवधिः
+<translate> <lang:hi> Border color:
+सीमांत रंगः
+<translate> <lang:hi> The border color of the highlight box
+हाइलाइट बक्से का सीमांत रंग
+<translate> <lang:hi> Fill color:
+भराई का रंगः
+<translate> <lang:hi> The fill color of the highlight box
+हाइलाइट बक्से का भराई रंग
+<translate> <lang:hi> translator - credits
+रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)
+<translate> <lang:hi> An interactive Python accessibility explorer
+एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक
+<translate> <lang:hi> accerciser Copyright © 2006, 2007 IBM Corporation (BSD)
+एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी)
+<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.
+नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें
+<translate> <lang:hi> Web site
+जाल स्थल
+<translate> <lang:hi> _ Add Bookmark...
+पसंद जोड़ें... (_ A)
+<translate> <lang:hi> Bookmark selected accessible.
+चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें
+<translate> <lang:hi> _ Edit Bookmarks...
+पुस्तक चिह्न संपादित करें (_ E)...
+<translate> <lang:hi> Manage bookmarks.
+पुस्तक-चिह्नों को प्रबंधित करें।
+<translate> <lang:hi> Edit Bookmarks...
+पुस्तक चिह्नों को संपादित करें...
+<translate> <lang:hi> Title
+शीर्षक
+<translate> <lang:hi> Application
+अनुप्रयोग
+<translate> <lang:hi> Path
+पथ
+<translate> <lang:hi> Add Bookmark...
+पुस्तक-चिह्न जोड़ें...
+<translate> <lang:hi> Title:
+शीर्षकः
+<translate> <lang:hi> Application:
+अनुप्रयोगः
+<translate> <lang:hi> Path:
+पथः
+<translate> <lang:hi> Plugin Errors
+प्लग-इन त्रुटियां
+<translate> <lang:hi> View
+दृश्य
+<translate> <lang:hi> No view
+कोई दृश्य नहीं है
+<translate> <lang:hi> _ Single plugins view
+एकल प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View
+प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View (% d)
+प्लग-इन दृश्य (% d)
+<translate> <lang:hi> _ New view...
+नया दृश्य...
+<translate> <lang:hi> New View...
+नया दृश्य...
+<translate> <lang:hi> _ File
+फाइल (F)
+<translate> <lang:hi> _ Edit
+संपादित करें
+<translate> <lang:hi> _ Bookmarks
+पुस्तक-चिह्न संपादित करें (_ E)...
+<translate> <lang:hi> _ View
+दृश्य _ (V)
+<translate> <lang:hi> _ Help
+मदद
+<translate> <lang:hi> Full name
+पूरा नाम
+<translate> <lang:hi> Key binding
+कुंजी बंधन
+<translate> <lang:hi> Content type
+विषय प्रकार
+<translate> <lang:hi> Accerciser
+एक्सेर्साइसर
+<translate> <lang:hi> Give your application an accessibility workout
+अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें
+<translate> <lang:hi> Accerciser Accessibility Explorer
+एक्सेर्साइसर पहुंचनीयता अन्वेषक
+<translate> <lang:hi> A list of plugins that are disabled by default
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+<translate> <lang:hi> A list of plugins that are disabled by default.
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+<translate> <lang:hi> Highlight duration
+अवधि को हाइलाइट रकें
+<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes.
+पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि.
+<translate> <lang:hi> Highlight fill color
+भराई के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight fill.
+हाइलाइट किया गया भराई का रंग और पारदर्शिता।
+<translate> <lang:hi> Highlight border color
+सीमांत (बोर्डर) के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight border.
+हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।
+<translate> <lang:hi> The layout for the bottom panel
+नीचे के पैनल के लिए लेआउट
+<translate> <lang:hi> The layout for the bottom panel pluginview.
+नीचे पैनल pluginview के लिए लेआउट.
+<translate> <lang:hi> The layout for the top panel
+ऊपरी पटल के लिए खाका
+<translate> <lang:hi> The layout for the top panel pluginview.
+शीर्ष पैनल pluginview के लिए लेआउट.
+<translate> <lang:hi> Single layout view
+एकल लेआउट दृश्य
+<translate> <lang:hi> Available new pluginviews
+नई pluginviews उपलब्ध है
+<translate> <lang:hi> The default plugin layout for the top panel.
+ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका.
+<translate> <lang:hi> API Browser
+एपीआई विचरक
+<translate> <lang:hi> Browse the various methods of the current accessible
+इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें
+<translate> <lang:hi> Hide private attributes
+निजी गुणों को छिपाएं
+<translate> <lang:hi> Method
+विधि
+<translate> <lang:hi> Property
+गुणधर्म
+<translate> <lang:hi> Value
+मान
+<translate> <lang:hi> IPython Console
+आईपाइथन कन्सोल
+<translate> <lang:hi> Interactive console for manipulating currently selected accessible
+इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल
+<translate> <lang:hi> Event monitor
+घटना मानिटर
+<translate> <lang:hi> _ Monitor Events
+घटनाओं को मानिटर करें (_ M)
+<translate> <lang:hi> C _ lear Selection
+चुनाव को हटाएं (C _)
+<translate> <lang:hi> Everything
+सभी
+<translate> <lang:hi> Selected application
+चुने गए अनुप्रयोग
+<translate> <lang:hi> Selected accessible
+चुने गए एक्सेसेबेल
+<translate> <lang:hi> Source
+स्रोत
+<translate> <lang:hi> Event Monitor
+घटना मानिटर
+<translate> <lang:hi> Shows events as they occur from selected types and sources
+चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है
+<translate> <lang:hi> Highlight last event entry
+अंतिम प्रविष्ट घटना को हाइलाइट करो
+<translate> <lang:hi> Start / stop event recording
+घटना रेकोर्डिंग शुरू करो/रोको
+<translate> <lang:hi> Clear event log
+घटना रोजनामचा मिटाओ
+<translate> <lang:hi> Child count
+बाल गणना
+<translate> <lang:hi> Description
+वर्णन
+<translate> <lang:hi> States
+राज्य
+<translate> <lang:hi> Attributes
+गुणधर्म
+<translate> <lang:hi> Show
+दिखाएं
+<translate> <lang:hi> Relations
+संबंध
+<translate> <lang:hi> _ Accessible
+पहुंचनीय
+<translate> <lang:hi> Perform action
+कार्रवाई संपन्न करें
+<translate> <lang:hi> Acti _ on
+कार्रवाई (_ o)
+<translate> <lang:hi> ID
+आईडी
+<translate> <lang:hi> Toolkit
+औजार बक्सा
+<translate> <lang:hi> Version
+संस्करण
+<translate> <lang:hi> Ap _ plication
+अनुप्रयोग
+<translate> <lang:hi> Col _ lection
+संग्रह
+<translate> <lang:hi> 0, 0
+0, 0
+<translate> <lang:hi> Relative position
+सापेक्ष स्थिति
+<translate> <lang:hi> Size
+आकार
+<translate> <lang:hi> WIDGET
+विडजेट
+<translate> <lang:hi> Layer
+स्तर
+<translate> <lang:hi> MDI - Z - order
+एमडीआई-जेड-क्रम
+<translate> <lang:hi> Alpha
+अल्फा
+<translate> <lang:hi> Absolute position
+निरपेक्ष स्थिति
+<translate> <lang:hi> Co _ mponent
+घटक
+<translate> <lang:hi> Des _ ktop
+डेस्कटोप
+<translate> <lang:hi> Locale:
+स्थान-विशिष्टः
+<translate> <lang:hi> _ Document
+प्रलेख
+<translate> <lang:hi> Hyperlink
+हाइपरकड़ी
+<translate> <lang:hi> H _ ypertext
+हाइपरपाठ
+<translate> <lang:hi> Position
+स्थिति
+<translate> <lang:hi> Locale
+स्थान-विशिष्ट
+<translate> <lang:hi> _ Image
+छवि (_ I)
+<translate> <lang:hi> Lo _ gin Helper
+प्रवेश सहायक
+<translate> <lang:hi> Select All
+सभी चुनें
+<translate> <lang:hi> _ Selection
+चयन (_ S)
+<translate> <lang:hi> St _ reamable Content
+प्रवाहित करनेयोग्य विषयवस्तु
+<translate> <lang:hi> Caption:
+शीर्षकः
+<translate> <lang:hi> Summary:
+सारांशः
+<translate> <lang:hi> Selected columns
+चुने गए स्तंभ
+<translate> <lang:hi> Selected rows
+चुनी गई पंक्तियां
+<translate> <lang:hi> Columns
+स्तंभ
+<translate> <lang:hi> Rows
+पंक्तियां
+<translate> <lang:hi> Table Information
+सारणी सूचना
+<translate> <lang:hi> name (x, y)
+नाम (x, y)
+<translate> <lang:hi> Header:
+शीर्षकः
+<translate> <lang:hi> Extents:
+विस्तारः
+<translate> <lang:hi> Row
+पंक्ति
+<translate> <lang:hi> Column
+स्तंभ
+<translate> <lang:hi> Selected Cell
+चुनी गई कोशिका
+<translate> <lang:hi> _ Table
+सारणी (_ T)
+<translate> <lang:hi> Offset
+ओफसेट
+<translate> <lang:hi> Include defaults
+डिफोल्टों को शामिल करें
+<translate> <lang:hi> Start: 0
+प्रारंभ
+<translate> <lang:hi> End: 0
+अंतः 0
+<translate> <lang:hi> Te _ xt
+पाठ (_ x)
+<translate> <lang:hi> Current value
+मौजूदा मान
+<translate> <lang:hi> Minimum increment
+न्यूनतम वृद्धि
+<translate> <lang:hi> Maximum value
+अधिकतम मान
+<translate> <lang:hi> Minimum value
+न्यूनतम मान
+<translate> <lang:hi> Val _ ue
+मान
+<translate> <lang:hi> unknown
+अज्ञात
+<translate> <lang:hi> Interface Viewer
+अंतराफलक दर्शक
+<translate> <lang:hi> Allows viewing of various interface properties
+अंतराफलक के विभिन्न गुणों को देखने देता है
+<translate> <lang:hi> (not implemented)
+(क्रियान्वित नहीं हुआ है)
+<translate> <lang:hi> Name
+नाम
+<translate> <lang:hi> URI
+यूआरआई
+<translate> <lang:hi> Start
+प्रारंभ
+<translate> <lang:hi> End
+अंत
+<translate> <lang:hi> Too many selectable children
+बहुत अधिक चयनीय शिशु हैं
+<translate> <lang:hi> (Editable)
+(संशोधनीय) Start
+<translate> <lang:hi> Start:% d
+प्रारंभEnd
+<translate> <lang:hi> Quick Select
+तेज चुनाव
+<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.
+प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां
+<translate> <lang:hi> Inspect last focused accessible
+अंतिम बार फोकस किए गए एक्सेसेबल को जांचें
+<translate> <lang:hi> Inspect accessible under mouse
+माउस के अधीन जो एक्सेसेबल है, उसे जांचें
+<translate> <lang:hi> Sche _ ma:
+स्कीमाः
+<translate> <lang:hi> V _ alidate
+सत्यापन
+<translate> <lang:hi> Idle
+खाली
+<translate> <lang:hi> No description
+कोई विवरण नहीं
+<translate> <lang:hi> AT - SPI Validator
+एटी-एसपीआई सत्यापक
+<translate> <lang:hi> Validates application accessibility
+अनुप्रयोग की पहुंचनीयता का सत्यापन करता है
+<translate> <lang:hi> Level
+स्तर
+<translate> <lang:hi> Role
+भूमिका
+<translate> <lang:hi> Saving
+सहेज रहे हैं
+<translate> <lang:hi> Validating
+पुष्टि कर रहे हैं
+<translate> <lang:hi> EXCEPT
+अपवाद
+<translate> <lang:hi> ERROR
+त्रुटि
+<translate> <lang:hi> WARN
+चेतावनी
+<translate> <lang:hi> INFO
+सूचना
+<translate> <lang:hi> DEBUG
+दोषमुक्त करें
+<translate> <lang:hi> Basic
+मूल
+<translate> <lang:hi> Tests fundamental GUI application accessibility
+मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है
+<translate> <lang:hi> actionable% s is not focusable or selectable
+% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय
+<translate> <lang:hi> interactive% s is not actionable
+अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है
+<translate> <lang:hi> more than one focused widget
+एक से अधिक विडजेट फोकस में है
+<translate> <lang:hi> % s has no text interface
+% s का कोई पाठ अंतराफलक नहीं है
+<translate> <lang:hi> % s index in parent does not match child index
+अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती
+<translate> <lang:hi> Missing reciprocal for% s relation
+% s संबंध के लिए अन्योन्य गायब है
+<translate> <lang:hi> % s missing name or label
+% s गायब नाम या सूचक
+<translate> <lang:hi> focusable% s has a table interface, but not a selection interface
+फोकस योग्य% s में सारणी अंतराफलक है, लेकिन कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state
+<translate> <lang:hi> % s has% s state without% s state
+% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है
+<translate> <lang:hi> % s does not belong to a set
+% s किसी समुच्चय का सदस्य नहीं है
+<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column
+% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index
+<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते
+<translate> <lang:hi> % s has no name or description
+% s का कोई नाम या विवरण नहीं
+<translate> <lang:hi> _ Preferences...
+पसंद (_ P)...
+<translate> <lang:hi> _ Contents
+विषय सूची (_ C)
+<translate> <lang:hi> < dead >
+<dead>
+<translate> <lang:hi> Children
+शिशु
+<translate> <lang:hi> _ Hide / Show Applications without children
+बच्चों के बिना अनुप्रयोग छिपाएँ/दिखाएँ (_ H)
+<translate> <lang:hi> _ Refresh Registry
+पंजी ताजा करें (_ R)
+<translate> <lang:hi> Refresh all
+सभी को ताजा करें
+<translate> <lang:hi> Refresh _ Node
+आसंधि (नोड) को ताजा करें (_ N)
+<translate> <lang:hi> Refresh selected node 's children
+चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें
+<translate> <lang:hi> Component
+घटक
+<translate> <lang:hi> Task
+कार्य
+<translate> <lang:hi> Key
+कुंजी
+<translate> <lang:hi> Alt
+आल्ट
+<translate> <lang:hi> Ctrl
+कंट्रोल
+<translate> <lang:hi> Shift
+शिफ्ट
+<translate> <lang:hi> Top panel
+ऊपरी पटल
+<translate> <lang:hi> Bottom panel
+निचला पटल
+<translate> <lang:hi> accerciser Preferences
+एक्सेर्साइसर पसंद
+<translate> <lang:hi> Plugins
+प्लगइन्स
+<translate> <lang:hi> Global Hotkeys
+सार्वत्रिक फटाफट कुंजियां
+<translate> <lang:hi> Highlighting
+हाइलाइटन
+<translate> <lang:hi> Highlight duration:
+हाइलाइट अवधिः
+<translate> <lang:hi> Border color:
+सीमांत रंगः
+<translate> <lang:hi> The border color of the highlight box
+हाइलाइट बक्से का सीमांत रंग
+<translate> <lang:hi> Fill color:
+भराई का रंगः
+<translate> <lang:hi> The fill color of the highlight box
+हाइलाइट बक्से का भराई रंग
+<translate> <lang:hi> translator - credits
+रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)
+<translate> <lang:hi> An interactive Python accessibility explorer
+एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक
+<translate> <lang:hi> accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)
+एक्सेर्साइसर सर्वाधिकार (c) 2006,2007 आईबीएम निगम (बीएसडी)
+<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.
+नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें
+<translate> <lang:hi> Web site
+जाल स्थल
+<translate> <lang:hi> _ Add Bookmark...
+पसंद जोड़ें... (_ A)
+<translate> <lang:hi> Bookmark selected accessible.
+चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें
+<translate> <lang:hi> _ Edit Bookmarks...
+पुस्तक चिह्न संपादित करें (_ E)...
+<translate> <lang:hi> Manage bookmarks.
+पुस्तक-चिह्नों को प्रबंधित करें।
+<translate> <lang:hi> Edit Bookmarks...
+पुस्तक चिह्नों को संपादित करें...
+<translate> <lang:hi> Title
+शीर्षक
+<translate> <lang:hi> Application
+अनुप्रयोग
+<translate> <lang:hi> Path
+पथ
+<translate> <lang:hi> Add Bookmark...
+पुस्तक-चिह्न जोड़ें...
+<translate> <lang:hi> Title:
+शीर्षकः
+<translate> <lang:hi> Application:
+अनुप्रयोगः
+<translate> <lang:hi> Path:
+पथः
+<translate> <lang:hi> Plugin Errors
+प्लग-इन त्रुटियांviewport
+<translate> <lang:hi> View
+दृश्य
+<translate> <lang:hi> No view
+कोई दृश्य नहीं है
+<translate> <lang:hi> _ Single plugins view
+एकल प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View
+प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View (% d)
+प्लग-इन दृश्य (% d)
+<translate> <lang:hi> _ New view...
+नया दृश्य...
+<translate> <lang:hi> New View...
+नया दृश्य...
+<translate> <lang:hi> _ File
+फाइल (F)
+<translate> <lang:hi> _ Edit
+संपादित करेंmenu
+<translate> <lang:hi> _ Bookmarks
+पसंद (_ B) menu
+<translate> <lang:hi> _ View
+दृश्य _ (V)
+<translate> <lang:hi> _ Help
+मदद
+<translate> <lang:hi> (no description)
+(कोई विवरण नहीं)
+<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?
+<translate> <lang:hi> Note: Changes only take effect after logout.
+टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।
+<translate> <lang:hi> _ New view...
+नया दृश्य... (_ N)
+<translate> <lang:hi> Give your application an accessibility workout
+अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें
+<translate> <lang:hi> Accerciser Accessibility Explorer
+एक्सेर्साइसर पहुंचनीयता अन्वेषक
+<translate> <lang:hi> A list of plugins that are disabled by default
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+<translate> <lang:hi> A list of plugins that are disabled by default.
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+<translate> <lang:hi> Highlight duration
+अवधि को हाइलाइट रकें
+<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes.
+पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि
+<translate> <lang:hi> Highlight fill color
+भराई के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight fill.
+हाइलाइट किया गया भराई का रंग और पारदर्शिता।
+<translate> <lang:hi> Highlight border color
+सीमांत (बोर्डर) के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight border.
+हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।
+<translate> <lang:hi> The layout for the bottom panel
+निचले पटल के लिए डिफोल्ट प्लग-इन खाका
+<translate> <lang:hi> The layout for the bottom panel pluginview.
+निचले पटल के लिए डिफोल्ट प्लग-इन खाका
+<translate> <lang:hi> The layout for the top panel
+ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका
+<translate> <lang:hi> The layout for the top panel pluginview.
+ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका
+<translate> <lang:hi> Single layout view
+एकल प्लग-इन दृश्य
+<translate> <lang:hi> Available new pluginviews
+एकल प्लग-इन दृश्य
+<translate> <lang:hi> The default plugin layout for the top panel.
+ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका
+<translate> <lang:hi> API Browser
+एपीआई विचरक
+<translate> <lang:hi> Browse the various methods of the current accessible
+इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें
+<translate> <lang:hi> Hide private attributes
+निजी गुणों को छिपाएं
+<translate> <lang:hi> Method
+विधि
+<translate> <lang:hi> Property
+गुणधर्म
+<translate> <lang:hi> Value
+मान
+<translate> <lang:hi> IPython Console
+आईपाइथन कन्सोल
+<translate> <lang:hi> Interactive console for manipulating currently selected accessible
+इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल
+<translate> <lang:hi> Event monitor
+घटना मानिटर
+<translate> <lang:hi> _ Monitor Events
+घटनाओं को मानिटर करें (_ M)
+<translate> <lang:hi> C _ lear Selection
+चुनाव को हटाएं (C _)
+<translate> <lang:hi> Everything
+सभी
+<translate> <lang:hi> Selected application
+चुने गए अनुप्रयोग
+<translate> <lang:hi> Selected accessible
+चुने गए एक्सेसेबेल
+<translate> <lang:hi> Source
+स्रोत
+<translate> <lang:hi> Event Monitor
+घटना मानिटर
+<translate> <lang:hi> Shows events as they occur from selected types and sources
+चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है
+<translate> <lang:hi> Highlight last event entry
+अंतिम प्रविष्ट घटना को हाइलाइट करो
+<translate> <lang:hi> Start / stop event recording
+घटना रेकोर्डिंग शुरू करो/रोको
+<translate> <lang:hi> Clear event log
+घटना रोजनामचा मिटाओ
+<translate> <lang:hi> (no description)
+कोई विवरण नहीं
+<translate> <lang:hi> Description
+वर्णन
+<translate> <lang:hi> Show
+दिखाएं
+<translate> <lang:hi> _ Accessible
+पहुंचनीय
+<translate> <lang:hi> Perform action
+कार्रवाई संपन्न करें
+<translate> <lang:hi> Acti _ on
+कार्रवाई (_ o)
+<translate> <lang:hi> ID
+आईडी
+<translate> <lang:hi> Toolkit
+औजार बक्सा
+<translate> <lang:hi> Version
+संस्करण
+<translate> <lang:hi> Ap _ plication
+अनुप्रयोग
+<translate> <lang:hi> Col _ lection
+संग्रह
+<translate> <lang:hi> 0, 0
+0, 0
+<translate> <lang:hi> Relative position
+सापेक्ष स्थिति
+<translate> <lang:hi> Size
+आकार
+<translate> <lang:hi> WIDGET
+विडजेट
+<translate> <lang:hi> Layer
+स्तर
+<translate> <lang:hi> MDI - Z - order
+एमडीआई-जेड-क्रम
+<translate> <lang:hi> Alpha
+अल्फा
+<translate> <lang:hi> Absolute position
+निरपेक्ष स्थिति
+<translate> <lang:hi> Co _ mponent
+घटक
+<translate> <lang:hi> Des _ ktop
+डेस्कटोप
+<translate> <lang:hi> Locale:
+स्थान-विशिष्टः
+<translate> <lang:hi> _ Document
+प्रलेख
+<translate> <lang:hi> Hyperlink
+हाइपरकड़ी
+<translate> <lang:hi> H _ ypertext
+हाइपरपाठ
+<translate> <lang:hi> Position
+स्थिति
+<translate> <lang:hi> Description
+वर्णन
+<translate> <lang:hi> Locale
+स्थान-विशिष्ट
+<translate> <lang:hi> _ Image
+छवि (_ I)
+<translate> <lang:hi> Lo _ gin Helper
+प्रवेश सहायक
+<translate> <lang:hi> Select All
+सभी चुनें
+<translate> <lang:hi> _ Selection
+चयन (_ S)
+<translate> <lang:hi> St _ reamable Content
+प्रवाहित करनेयोग्य विषयवस्तु
+<translate> <lang:hi> Selected columns
+चुने गए स्तंभ
+<translate> <lang:hi> Selected rows
+चुनी गई पंक्तियां
+<translate> <lang:hi> Columns
+स्तंभ
+<translate> <lang:hi> Rows
+पंक्तियां
+<translate> <lang:hi> Table Information
+& lt; bgt; सारणी सूचनाlt;/bgt;
+<translate> <lang:hi> name (x, y)
+नाम (x, y)
+<translate> <lang:hi> Header:
+शीर्षकः
+<translate> <lang:hi> Extents:
+विस्तारः
+<translate> <lang:hi> Row
+पंक्ति
+<translate> <lang:hi> Column
+स्तंभ
+<translate> <lang:hi> Selected Cell
+& lt; bgt; चुनी गई कोशिकाlt;/bgt;
+<translate> <lang:hi> _ Table
+सारणी (_ T)
+<translate> <lang:hi> Offset
+ओफसेट
+<translate> <lang:hi> Include defaults
+डिफोल्टों को शामिल करें
+<translate> <lang:hi> Te _ xt
+पाठ (_ x)
+<translate> <lang:hi> Current value
+मौजूदा मान
+<translate> <lang:hi> Minimum increment
+न्यूनतम वृद्धि
+<translate> <lang:hi> Maximum value
+अधिकतम मान
+<translate> <lang:hi> Minimum value
+न्यूनतम मान
+<translate> <lang:hi> Val _ ue
+मान
+<translate> <lang:hi> Interface Viewer
+अंतराफलक दर्शक
+<translate> <lang:hi> Allows viewing of various interface properties
+अंतराफलक के विभिन्न गुणों को देखने देता है
+<translate> <lang:hi> (not implemented)
+(क्रियान्वित नहीं हुआ है)
+<translate> <lang:hi> Name
+नाम
+<translate> <lang:hi> URI
+यूआरआई
+<translate> <lang:hi> Start
+प्रारंभ
+<translate> <lang:hi> End
+अंत
+<translate> <lang:hi> Too many selectable children
+बहुत अधिक चयनीय शिशु हैं
+<translate> <lang:hi> Quick Select
+तेज चुनाव
+<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.
+प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां
+<translate> <lang:hi> Inspect last focused accessible
+अंतिम बार फोकस किए गए एक्सेसेबल को जांचें
+<translate> <lang:hi> Inspect accessible under mouse
+माउस के अधीन जो एक्सेसेबल है, उसे जांचें
+<translate> <lang:hi> Sche _ ma:
+स्कीमाः
+<translate> <lang:hi> V _ alidate
+सत्यापन
+<translate> <lang:hi> Idle
+खाली
+<translate> <lang:hi> No description
+कोई विवरण नहीं
+<translate> <lang:hi> AT - SPI Validator
+एटी-एसपीआई सत्यापक
+<translate> <lang:hi> Validates application accessibility
+अनुप्रयोग की पहुंचनीयता का सत्यापन करता है
+<translate> <lang:hi> Level
+स्तर
+<translate> <lang:hi> Role
+भूमिका
+<translate> <lang:hi> Saving
+सहेज रहे हैं
+<translate> <lang:hi> Validating
+पुष्टि कर रहे हैं
+<translate> <lang:hi> EXCEPT
+अपवाद
+<translate> <lang:hi> ERROR
+त्रुटि
+<translate> <lang:hi> WARN
+चेतावनी
+<translate> <lang:hi> INFO
+सूचना
+<translate> <lang:hi> DEBUG
+दोषमुक्त करें
+<translate> <lang:hi> Basic
+मूल
+<translate> <lang:hi> Tests fundamental GUI application accessibility
+मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है
+<translate> <lang:hi> actionable% s is not focusable or selectable
+% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय
+<translate> <lang:hi> interactive% s is not actionable
+अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है
+<translate> <lang:hi> more than one focused widget
+एक से अधिक विडजेट फोकस में है
+<translate> <lang:hi> % s has no text interface
+% s का कोई पाठ अंतराफलक नहीं है
+<translate> <lang:hi> % s index in parent does not match child index
+अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती
+<translate> <lang:hi> Missing reciprocal for% s relation
+% s संबंध के लिए अन्योन्य गायब है
+<translate> <lang:hi> % s missing name or label
+% s गायब नाम या सूचक
+<translate> <lang:hi> focusable% s has a table interface, but not a selection interface
+फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state
+<translate> <lang:hi> % s has% s state without% s state
+% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है
+<translate> <lang:hi> % s does not belong to a set
+% s किसी समुच्चय का सदस्य नहीं है
+<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column
+% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index
+<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते
+<translate> <lang:hi> % s has no name or description
+% s का कोई नाम या विवरण नहीं
+<translate> <lang:hi> _ Preferences...
+पसंद (_ P)...
+<translate> <lang:hi> _ Contents
+विषय सूची (_ C)
+<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?
+<translate> <lang:hi> Note: Changes only take effect after logout.
+टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।
+<translate> <lang:hi> Children
+शिशु
+<translate> <lang:hi> _ Refresh Registry
+पंजी ताजा करें (_ R)
+<translate> <lang:hi> Refresh all
+सभी को ताजा करें
+<translate> <lang:hi> Refresh _ Node
+आसंधि (नोड) को ताजा करें (_ N)
+<translate> <lang:hi> Refresh selected node 's children
+चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें
+<translate> <lang:hi> Component
+घटक
+<translate> <lang:hi> Task
+कार्य
+<translate> <lang:hi> Key
+कुंजी
+<translate> <lang:hi> Alt
+आल्ट
+<translate> <lang:hi> Ctrl
+कंट्रोल
+<translate> <lang:hi> Shift
+शिफ्ट
+<translate> <lang:hi> Top panel
+ऊपरी पटल
+<translate> <lang:hi> Bottom panel
+निचला पटल
+<translate> <lang:hi> accerciser Preferences
+एक्सेर्साइसर पसंद
+<translate> <lang:hi> Plugins
+प्लगइन्स
+<translate> <lang:hi> Global Hotkeys
+सार्वत्रिक फटाफट कुंजियां
+<translate> <lang:hi> Highlighting
+हाइलाइटन
+<translate> <lang:hi> Highlight duration:
+हाइलाइट अवधिः
+<translate> <lang:hi> Border color:
+सीमांत रंगः
+<translate> <lang:hi> The border color of the highlight box
+हाइलाइट बक्से का सीमांत रंग
+<translate> <lang:hi> Fill color:
+भराई का रंगः
+<translate> <lang:hi> The fill color of the highlight box
+हाइलाइट बक्से का भराई रंग
+<translate> <lang:hi> translator - credits
+रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)
+<translate> <lang:hi> An interactive Python accessibility explorer
+एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक
+<translate> <lang:hi> accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)
+एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी)
+<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.
+नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें
+<translate> <lang:hi> Web site
+जाल स्थल
+<translate> <lang:hi> _ Add Bookmark...
+पसंद जोड़ें... (_ A)
+<translate> <lang:hi> Bookmark selected accessible.
+चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें
+<translate> <lang:hi> _ Edit Bookmarks...
+पुस्तक चिह्न संपादित करें (_ E)...
+<translate> <lang:hi> Manage bookmarks.
+पुस्तक-चिह्नों को प्रबंधित करें।
+<translate> <lang:hi> Edit Bookmarks...
+पुस्तक चिह्नों को संपादित करें...
+<translate> <lang:hi> Title
+शीर्षक
+<translate> <lang:hi> Application
+अनुप्रयोग
+<translate> <lang:hi> Path
+पथ
+<translate> <lang:hi> Add Bookmark...
+पुस्तक-चिह्न जोड़ें...
+<translate> <lang:hi> Title:
+शीर्षकः
+<translate> <lang:hi> Application:
+अनुप्रयोगः
+<translate> <lang:hi> Path:
+पथः
+<translate> <lang:hi> Plugin Errors
+प्लग-इन त्रुटियां
+<translate> <lang:hi> View
+दृश्य
+<translate> <lang:hi> No view
+कोई दृश्य नहीं है
+<translate> <lang:hi> _ Single plugins view
+एकल प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View
+प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View (% d)
+प्लग-इन दृश्य (% d)
+<translate> <lang:hi> _ New view...
+नया दृश्य...
+<translate> <lang:hi> New View...
+नया दृश्य...
+<translate> <lang:hi> _ File
+फाइल (F)
+<translate> <lang:hi> _ Edit
+संपादित करें
+<translate> <lang:hi> _ Bookmarks
+पुस्तक-चिह्न संपादित करें (_ E)...
+<translate> <lang:hi> _ View
+दृश्य _ (V)
+<translate> <lang:hi> _ Help
+मदद
+<translate> <lang:hi> Accerciser
+एक्सेर्साइसर
+<translate> <lang:hi> Give your application an accessibility workout
+अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें
+<translate> <lang:hi> Accerciser Accessibility Explorer
+एक्सेर्साइसर पहुंचनीयता अन्वेषक
+<translate> <lang:hi> A list of plugins that are disabled by default
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+<translate> <lang:hi> A list of plugins that are disabled by default.
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+<translate> <lang:hi> Highlight duration
+अवधि को हाइलाइट रकें
+<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes.
+पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि.
+<translate> <lang:hi> Highlight fill color
+भराई के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight fill.
+हाइलाइट किया गया भराई का रंग और पारदर्शिता।
+<translate> <lang:hi> Highlight border color
+सीमांत (बोर्डर) के रंग को हाइलाइट करें
+<translate> <lang:hi> The color and opacity of the highlight border.
+हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।
+<translate> <lang:hi> Horizontal split
+क्षैतिज विभाजन
+<translate> <lang:hi> Position of the horizontal split of the main window.
+मुख्य विंडो की क्षैतिज विभाजन की स्थिति.
+<translate> <lang:hi> Vertical split
+अनुलंब विभाजित
+<translate> <lang:hi> Position of the vertical split of the main window.
+मुख्य विंडो की अनुलंब विभाजित की स्थिति.
+<translate> <lang:hi> Default window height
+तयशुदा विंडो ऊंचाई
+<translate> <lang:hi> The window height value.
+विंडो की ऊंचाई का मान.
+<translate> <lang:hi> Default window width
+तयशुदा विंडो चौड़ाई
+<translate> <lang:hi> The window width value.
+विंडो चौड़ाई मान.
+<translate> <lang:hi> The layout for the bottom panel
+नीचे के पैनल के लिए लेआउट
+<translate> <lang:hi> The layout for the bottom panel pluginview.
+नीचे पैनल pluginview के लिए लेआउट.
+<translate> <lang:hi> The layout for the top panel
+ऊपरी पटल के लिए खाका
+<translate> <lang:hi> The layout for the top panel pluginview.
+शीर्ष पैनल pluginview के लिए लेआउट.
+<translate> <lang:hi> Single layout view
+एकल लेआउट दृश्य
+<translate> <lang:hi> View plugins in a single layout.
+एक ही खाका में प्लगिन देखें.
+<translate> <lang:hi> Available new pluginviews
+नई pluginviews उपलब्ध है
+<translate> <lang:hi> This list contains all the new available pluginviews
+इस सूची में सभी नई उपलब्ध pluginviews शामिल हैं
+<translate> <lang:hi> The pluginview layout
+pluginview लेआउट
+<translate> <lang:hi> The default plugin layout for the top panel.
+ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका.
+<translate> <lang:hi> Window height
+विंडो की ऊँचाई
+<translate> <lang:hi> Window height value.
+विंडो की ऊंचाई का मान.
+<translate> <lang:hi> Window width
+विंडो की चौड़ाई
+<translate> <lang:hi> Window width value.
+विंडो चौड़ाई मान.
+<translate> <lang:hi> Hotkey combination
+hotkey संयोजन
+<translate> <lang:hi> Hotkey combination for related action.
+संबंधित कार्रवाई के लिए hotkey संयोजन.
+<translate> <lang:hi> API Browser
+एपीआई विचरक
+<translate> <lang:hi> Browse the various methods of the current accessible
+इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें
+<translate> <lang:hi> Hide private attributes
+निजी गुणों को छिपाएं
+<translate> <lang:hi> Method
+विधि
+<translate> <lang:hi> Property
+गुणधर्म
+<translate> <lang:hi> Value
+मान
+<translate> <lang:hi> IPython Console
+आईपाइथन कन्सोल
+<translate> <lang:hi> Interactive console for manipulating currently selected accessible
+इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल
+<translate> <lang:hi> Event monitor
+घटना मानिटर
+<translate> <lang:hi> _ Monitor Events
+घटनाओं को मानिटर करें (_ M)
+<translate> <lang:hi> C _ lear Selection
+चुनाव को हटाएं (C _)
+<translate> <lang:hi> Everything
+सभी
+<translate> <lang:hi> Selected application
+चुने गए अनुप्रयोग
+<translate> <lang:hi> Selected accessible
+चुने गए एक्सेसेबेल
+<translate> <lang:hi> Source
+स्रोत
+<translate> <lang:hi> Event Monitor
+घटना मानिटर
+<translate> <lang:hi> Shows events as they occur from selected types and sources
+चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है
+<translate> <lang:hi> Highlight last event entry
+अंतिम प्रविष्ट घटना को हाइलाइट करो
+<translate> <lang:hi> Start / stop event recording
+घटना रेकोर्डिंग शुरू करो/रोको
+<translate> <lang:hi> Clear event log
+घटना रोजनामचा मिटाओ
+<translate> <lang:hi> Child count
+बाल गणना
+<translate> <lang:hi> (no description)
+(कोई विवरण नहीं)
+<translate> <lang:hi> Description
+वर्णन
+<translate> <lang:hi> States
+राज्य
+<translate> <lang:hi> Show
+दिखाएं
+<translate> <lang:hi> Relations
+संबंध
+<translate> <lang:hi> Attributes
+गुणधर्म
+<translate> <lang:hi> _ Accessible
+पहुंचनीय
+<translate> <lang:hi> Perform action
+कार्रवाई संपन्न करें
+<translate> <lang:hi> Acti _ on
+कार्रवाई (_ o)
+<translate> <lang:hi> ID
+आईडी
+<translate> <lang:hi> Toolkit
+औजार बक्सा
+<translate> <lang:hi> Version
+संस्करण
+<translate> <lang:hi> Ap _ plication
+अनुप्रयोग
+<translate> <lang:hi> Col _ lection
+संग्रह
+<translate> <lang:hi> 0, 0
+0, 0
+<translate> <lang:hi> Relative position
+सापेक्ष स्थिति
+<translate> <lang:hi> Size
+आकार
+<translate> <lang:hi> WIDGET
+विडजेट
+<translate> <lang:hi> Layer
+स्तर
+<translate> <lang:hi> MDI - Z - order
+एमडीआई-जेड-क्रम
+<translate> <lang:hi> Alpha
+अल्फा
+<translate> <lang:hi> Absolute position
+निरपेक्ष स्थिति
+<translate> <lang:hi> Co _ mponent
+घटक
+<translate> <lang:hi> Des _ ktop
+डेस्कटोप
+<translate> <lang:hi> Locale:
+स्थान-विशिष्टः
+<translate> <lang:hi> _ Document
+प्रलेख
+<translate> <lang:hi> Hyperlink
+हाइपरकड़ी
+<translate> <lang:hi> H _ ypertext
+हाइपरपाठ
+<translate> <lang:hi> Position
+स्थिति
+<translate> <lang:hi> Description
+वर्णन
+<translate> <lang:hi> Locale
+स्थान-विशिष्ट
+<translate> <lang:hi> _ Image
+छवि (_ I)
+<translate> <lang:hi> Lo _ gin Helper
+प्रवेश सहायक
+<translate> <lang:hi> Select All
+सभी चुनें
+<translate> <lang:hi> _ Selection
+चयन (_ S)
+<translate> <lang:hi> St _ reamable Content
+प्रवाहित करनेयोग्य विषयवस्तु
+<translate> <lang:hi> Caption:
+शीर्षकः
+<translate> <lang:hi> Summary:
+सारांशः
+<translate> <lang:hi> Selected columns
+चुने गए स्तंभ
+<translate> <lang:hi> Selected rows
+चुनी गई पंक्तियां
+<translate> <lang:hi> Columns
+स्तंभ
+<translate> <lang:hi> Rows
+पंक्तियां
+<translate> <lang:hi> Table Information
+सारणी सूचना
+<translate> <lang:hi> name (x, y)
+नाम (x, y)
+<translate> <lang:hi> Header:
+शीर्षकः
+<translate> <lang:hi> Extents:
+विस्तारः
+<translate> <lang:hi> Row
+पंक्ति
+<translate> <lang:hi> Column
+स्तंभ
+<translate> <lang:hi> Selected Cell
+चुनी गई कोशिका
+<translate> <lang:hi> _ Table
+सारणी (_ T)
+<translate> <lang:hi> Text
+पाठ
+<translate> <lang:hi> Offset
+ओफसेट
+<translate> <lang:hi> Include defaults
+डिफोल्टों को शामिल करें
+<translate> <lang:hi> Start: 0
+प्रारंभः 0
+<translate> <lang:hi> End: 0
+अंतः 0
+<translate> <lang:hi> Te _ xt
+पाठ (_ x)
+<translate> <lang:hi> Current value
+मौजूदा मान
+<translate> <lang:hi> Minimum increment
+न्यूनतम वृद्धि
+<translate> <lang:hi> Maximum value
+अधिकतम मान
+<translate> <lang:hi> Minimum value
+न्यूनतम मान
+<translate> <lang:hi> Val _ ue
+मान
+<translate> <lang:hi> unknown
+अज्ञात
+<translate> <lang:hi> Interface Viewer
+अंतराफलक दर्शक
+<translate> <lang:hi> Allows viewing of various interface properties
+अंतराफलक के विभिन्न गुणों को देखने देता है
+<translate> <lang:hi> (not implemented)
+(क्रियान्वित नहीं हुआ है)
+<translate> <lang:hi> Name
+नाम
+<translate> <lang:hi> URI
+यूआरआई
+<translate> <lang:hi> Start
+प्रारंभ
+<translate> <lang:hi> End
+अंत
+<translate> <lang:hi> Too many selectable children
+बहुत अधिक चयनीय शिशु हैं
+<translate> <lang:hi> (Editable)
+(संशोधनीय)
+<translate> <lang:hi> Quick Select
+तेज चुनाव
+<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.
+प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां
+<translate> <lang:hi> Inspect last focused accessible
+अंतिम बार फोकस किए गए एक्सेसेबल को जांचें
+<translate> <lang:hi> Inspect accessible under mouse
+माउस के अधीन जो एक्सेसेबल है, उसे जांचें
+<translate> <lang:hi> Sche _ ma:
+स्कीमाः
+<translate> <lang:hi> V _ alidate
+सत्यापन
+<translate> <lang:hi> Idle
+खाली
+<translate> <lang:hi> No description
+कोई विवरण नहीं
+<translate> <lang:hi> AT - SPI Validator
+एटी-एसपीआई सत्यापक
+<translate> <lang:hi> Validates application accessibility
+अनुप्रयोग की पहुंचनीयता का सत्यापन करता है
+<translate> <lang:hi> Level
+स्तर
+<translate> <lang:hi> Role
+भूमिका
+<translate> <lang:hi> Saving
+सहेज रहे हैं
+<translate> <lang:hi> Validating
+पुष्टि कर रहे हैं
+<translate> <lang:hi> EXCEPT
+अपवाद
+<translate> <lang:hi> ERROR
+त्रुटि
+<translate> <lang:hi> WARN
+चेतावनी
+<translate> <lang:hi> INFO
+सूचना
+<translate> <lang:hi> DEBUG
+दोषमुक्त करें
+<translate> <lang:hi> Basic
+मूल
+<translate> <lang:hi> Tests fundamental GUI application accessibility
+मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है
+<translate> <lang:hi> actionable% s is not focusable or selectable
+% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय
+<translate> <lang:hi> interactive% s is not actionable
+अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है
+<translate> <lang:hi> more than one focused widget
+एक से अधिक विडजेट फोकस में है
+<translate> <lang:hi> % s has no text interface
+% s का कोई पाठ अंतराफलक नहीं है
+<translate> <lang:hi> % s index in parent does not match child index
+अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती
+<translate> <lang:hi> Missing reciprocal for% s relation
+% s संबंध के लिए अन्योन्य गायब है
+<translate> <lang:hi> % s missing name or label
+% s गायब नाम या सूचक
+<translate> <lang:hi> focusable% s has a table interface, but not a selection interface
+फोकस योग्य% s में सारणी अंतराफलक है, लेकिन कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state
+<translate> <lang:hi> % s has% s state without% s state
+% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है
+<translate> <lang:hi> % s does not belong to a set
+% s किसी समुच्चय का सदस्य नहीं है
+<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column
+% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index
+<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते
+<translate> <lang:hi> % s has no name or description
+% s का कोई नाम या विवरण नहीं
+<translate> <lang:hi> _ Preferences...
+पसंद (_ P)...
+<translate> <lang:hi> _ Contents
+विषय सूची (_ C)
+<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?
+<translate> <lang:hi> Note: Changes only take effect after logout.
+टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।
+<translate> <lang:hi> < dead >
+<dead>
+<translate> <lang:hi> Children
+शिशु
+<translate> <lang:hi> _ Hide / Show Applications without children
+बच्चों के बिना अनुप्रयोग छिपाएँ/दिखाएँ (_ H)
+<translate> <lang:hi> _ Refresh Registry
+पंजी ताजा करें (_ R)
+<translate> <lang:hi> Refresh all
+सभी को ताजा करें
+<translate> <lang:hi> Refresh _ Node
+आसंधि (नोड) को ताजा करें (_ N)
+<translate> <lang:hi> Refresh selected node 's children
+चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें
+<translate> <lang:hi> Component
+घटक
+<translate> <lang:hi> Task
+कार्य
+<translate> <lang:hi> Key
+कुंजी
+<translate> <lang:hi> Alt
+आल्ट
+<translate> <lang:hi> Ctrl
+कंट्रोल
+<translate> <lang:hi> Shift
+शिफ्ट
+<translate> <lang:hi> Top panel
+ऊपरी पटल
+<translate> <lang:hi> Bottom panel
+निचला पटल
+<translate> <lang:hi> accerciser Preferences
+एक्सेर्साइसर पसंद
+<translate> <lang:hi> Plugins
+प्लगइन्स
+<translate> <lang:hi> Global Hotkeys
+सार्वत्रिक फटाफट कुंजियां
+<translate> <lang:hi> Highlighting
+हाइलाइटन
+<translate> <lang:hi> Highlight duration:
+हाइलाइट अवधिः
+<translate> <lang:hi> Border color:
+सीमांत रंगः
+<translate> <lang:hi> The border color of the highlight box
+हाइलाइट बक्से का सीमांत रंग
+<translate> <lang:hi> Fill color:
+भराई का रंगः
+<translate> <lang:hi> The fill color of the highlight box
+हाइलाइट बक्से का भराई रंग
+<translate> <lang:hi> translator - credits
+रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)
+<translate> <lang:hi> An interactive Python accessibility explorer
+एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक
+<translate> <lang:hi> accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)
+एक्सेर्साइसर सर्वाधिकार (c) 2006,2007 आईबीएम निगम (बीएसडी)
+<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.
+नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें
+<translate> <lang:hi> Web site
+जाल स्थल
+<translate> <lang:hi> _ Add Bookmark...
+पसंद जोड़ें... (_ A)
+<translate> <lang:hi> Bookmark selected accessible.
+चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें
+<translate> <lang:hi> _ Edit Bookmarks...
+पुस्तक चिह्न संपादित करें (_ E)...
+<translate> <lang:hi> Manage bookmarks.
+पुस्तक-चिह्नों को प्रबंधित करें।
+<translate> <lang:hi> Edit Bookmarks...
+पुस्तक चिह्नों को संपादित करें...
+<translate> <lang:hi> Title
+शीर्षक
+<translate> <lang:hi> Application
+अनुप्रयोग
+<translate> <lang:hi> Path
+पथ
+<translate> <lang:hi> Add Bookmark...
+पुस्तक-चिह्न जोड़ें...
+<translate> <lang:hi> Title:
+शीर्षकः
+<translate> <lang:hi> Application:
+अनुप्रयोगः
+<translate> <lang:hi> Path:
+पथः
+<translate> <lang:hi> Plugin Errors
+प्लग-इन त्रुटियांviewport
+<translate> <lang:hi> View
+दृश्य
+<translate> <lang:hi> No view
+कोई दृश्य नहीं है
+<translate> <lang:hi> _ Single plugins view
+एकल प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View
+प्लग-इन दृश्य
+<translate> <lang:hi> Plugin View (% d)
+प्लग-इन दृश्य (% d)
+<translate> <lang:hi> _ New view...
+नया दृश्य... (_ N)
+<translate> <lang:hi> New View...
+नया दृश्य...
+<translate> <lang:hi> _ File
+फाइल (F)
+<translate> <lang:hi> _ Edit
+संपादित करेंmenu
+<translate> <lang:hi> _ Bookmarks
+पसंद (_ B) menu
+<translate> <lang:hi> _ View
+दृश्य _ (V)
+<translate> <lang:hi> _ Help
+मदद
+<translate> <lang:hi> Accerciser
+एक्सेर्साइसर
+<translate> <lang:hi> Give your application an accessibility workout
+अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें
+<translate> <lang:hi> Accerciser Accessibility Explorer
+एक्सेर्साइसर पहुंचनीयता अन्वेषक
+<translate> <lang:hi> A list of plugins that are disabled by default
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+<translate> <lang:hi> A list of plugins that are disabled by default.
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है

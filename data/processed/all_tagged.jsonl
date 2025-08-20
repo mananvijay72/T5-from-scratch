@@ -1,8 +1,1000 @@
-{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> I love you.", "target": "मैं तुमसे प्यार करता हूँ।"}
-{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Good morning.", "target": "सुप्रभात।"}
-{"task": "translate", "src_lang": "en", "tgt_lang": "es", "input": "<translate> <lang:es> I love you.", "target": "Te amo."}
-{"task": "translate", "src_lang": "en", "tgt_lang": "es", "input": "<translate> <lang:es> Good morning.", "target": "Buenos días."}
-{"task": "summarize", "input": "<summarize> The city council recently passed a new regulation which aims to improve recycling across the city by introducing mandatory separation of waste at source and stricter penalties for violations.", "target": "The council passed a new recycling regulation."}
-{"task": "summarize", "input": "<summarize> Scientists published a long report showing that the new vaccine was effective after large trials conducted over several countries, demonstrating a significant drop in severe cases.", "target": "New report shows vaccine effective."}
-{"task": "qa", "input": "<qa> Context: The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. Question: It is located in which city?", "target": "Paris"}
-{"task": "qa", "input": "<qa> Context: Honeybees live in colonies and produce honey from the nectar of flowers. Question: What do honeybees produce from nectar?", "target": "Honey"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Give your application an accessibility workout", "target": "अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser Accessibility Explorer", "target": "एक्सेर्साइसर पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The default plugin layout for the bottom panel", "target": "निचले पटल के लिए डिफोल्ट प्लग-इन खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The default plugin layout for the top panel", "target": "ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration", "target": "अवधि को हाइलाइट रकें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes", "target": "पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight border color", "target": "सीमांत (बोर्डर) के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight border.", "target": "हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight fill color", "target": "भराई के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight fill.", "target": "हाइलाइट किया गया भराई का रंग और पारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> API Browser", "target": "एपीआई विचरक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Browse the various methods of the current accessible", "target": "इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hide private attributes", "target": "निजी गुणों को छिपाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Method", "target": "विधि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Property", "target": "गुणधर्म"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Value", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> IPython Console", "target": "आईपाइथन कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interactive console for manipulating currently selected accessible", "target": "इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Monitor Events", "target": "घटनाओं को मानिटर करें (_ M)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> C _ lear Selection", "target": "चुनाव को हटाएं (C _)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Everything", "target": "सभी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected application", "target": "चुने गए अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected accessible", "target": "चुने गए एक्सेसेबेल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Source", "target": "स्रोत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event Monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shows events as they occur from selected types and sources", "target": "चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight last event entry", "target": "अंतिम प्रविष्ट घटना को हाइलाइट करो"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start / stop event recording", "target": "घटना रेकोर्डिंग शुरू करो/रोको"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Clear event log", "target": "घटना रोजनामचा मिटाओ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (no description)", "target": "कोई विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Description", "target": "वर्णन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Show", "target": "दिखाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Accessible", "target": "पहुंचनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Perform action", "target": "कार्रवाई संपन्न करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Acti _ on", "target": "कार्रवाई (_ o)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ID", "target": "आईडी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Toolkit", "target": "औजार बक्सा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Version", "target": "संस्करण"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ap _ plication", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Col _ lection", "target": "संग्रह"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> 0, 0", "target": "0, 0"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Relative position", "target": "सापेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Size", "target": "आकार"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WIDGET", "target": "विडजेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Layer", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> MDI - Z - order", "target": "एमडीआई-जेड-क्रम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alpha", "target": "अल्फा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Absolute position", "target": "निरपेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Co _ mponent", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Des _ ktop", "target": "डेस्कटोप"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale:", "target": "स्थान-विशिष्टः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Document", "target": "प्रलेख"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hyperlink", "target": "हाइपरकड़ी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> H _ ypertext", "target": "हाइपरपाठ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Position", "target": "स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Description", "target": "वर्णन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale", "target": "स्थान-विशिष्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Image", "target": "छवि (_ I)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Lo _ gin Helper", "target": "प्रवेश सहायक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Select All", "target": "सभी चुनें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Selection", "target": "चयन (_ S)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> St _ reamable Content", "target": "प्रवाहित करनेयोग्य विषयवस्तु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected columns", "target": "चुने गए स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected rows", "target": "चुनी गई पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Columns", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Rows", "target": "पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Table Information", "target": "& lt; bgt; सारणी सूचनाlt;/bgt;"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> name (x, y)", "target": "नाम (x, y)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Header:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Extents:", "target": "विस्तारः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Row", "target": "पंक्ति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Column", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected Cell", "target": "& lt; bgt; चुनी गई कोशिकाlt;/bgt;"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Table", "target": "सारणी (_ T)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Offset", "target": "ओफसेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Include defaults", "target": "डिफोल्टों को शामिल करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Te _ xt", "target": "पाठ (_ x)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Current value", "target": "मौजूदा मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum increment", "target": "न्यूनतम वृद्धि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Maximum value", "target": "अधिकतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum value", "target": "न्यूनतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Val _ ue", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interface Viewer", "target": "अंतराफलक दर्शक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Allows viewing of various interface properties", "target": "अंतराफलक के विभिन्न गुणों को देखने देता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (not implemented)", "target": "(क्रियान्वित नहीं हुआ है)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Name", "target": "नाम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> URI", "target": "यूआरआई"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start", "target": "प्रारंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> End", "target": "अंत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Too many selectable children", "target": "बहुत अधिक चयनीय शिशु हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Quick Select", "target": "तेज चुनाव"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.", "target": "प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect last focused accessible", "target": "अंतिम बार फोकस किए गए एक्सेसेबल को जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect accessible under mouse", "target": "माउस के अधीन जो एक्सेसेबल है, उसे जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Native", "target": "वतनी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Dogtail", "target": "श्वानपुच्छ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> LDTP", "target": "एलडीटीपी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Script Type", "target": "लिपि प्रकार"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Script Recorder", "target": "लिपि रेकोर्डर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Creates dogtail style scripts", "target": "श्वानपुच्छ शैली की लिपियां निर्मित करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The current script will be lost.", "target": "वर्तमान लिपि (स्क्रिप्ट) खो जाएगी।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Confirm clear", "target": "मिटाने की पुष्टि करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Sche _ ma:", "target": "स्कीमाः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> V _ alidate", "target": "सत्यापन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Idle", "target": "खाली"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No description", "target": "कोई विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> AT - SPI Validator", "target": "एटी-एसपीआई सत्यापक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validates application accessibility", "target": "अनुप्रयोग की पहुंचनीयता का सत्यापन करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Level", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Role", "target": "भूमिका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Saving", "target": "सहेज रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validating", "target": "पुष्टि कर रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> EXCEPT", "target": "अपवाद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ERROR", "target": "त्रुटि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WARN", "target": "चेतावनी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> INFO", "target": "सूचना"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> DEBUG", "target": "दोषमुक्त करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Basic", "target": "मूल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Tests fundamental GUI application accessibility", "target": "मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> actionable% s is not focusable or selectable", "target": "% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> interactive% s is not actionable", "target": "अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> more than one focused widget", "target": "एक से अधिक विडजेट फोकस में है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no text interface", "target": "% s का कोई पाठ अंतराफलक नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s index in parent does not match child index", "target": "अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Missing reciprocal for% s relation", "target": "% s संबंध के लिए अन्योन्य गायब है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s missing name or label", "target": "% s गायब नाम या सूचक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> focusable% s has table interface, no selection interface", "target": "फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has% s state without% s state", "target": "% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s does not belong to a set", "target": "% s किसी समुच्चय का सदस्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column", "target": "% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d", "target": "% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no name or description", "target": "% s का कोई नाम या विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Preferences...", "target": "पसंद (_ P)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Contents", "target": "विषय सूची (_ C)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?", "target": "एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Note: Changes only take effect after logout.", "target": "टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Children", "target": "शिशु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Refresh Registry", "target": "पंजी ताजा करें (_ R)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh all", "target": "सभी को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh _ Node", "target": "आसंधि (नोड) को ताजा करें (_ N)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh selected node 's children", "target": "चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Component", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Task", "target": "कार्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Key", "target": "कुंजी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alt", "target": "आल्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ctrl", "target": "कंट्रोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shift", "target": "शिफ्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Top panel", "target": "ऊपरी पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bottom panel", "target": "निचला पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Preferences", "target": "एक्सेर्साइसर पसंद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugins", "target": "प्लगइन्स"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Global Hotkeys", "target": "सार्वत्रिक फटाफट कुंजियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlighting", "target": "हाइलाइटन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration:", "target": "हाइलाइट अवधिः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Border color:", "target": "सीमांत रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The border color of the highlight box", "target": "हाइलाइट बक्से का सीमांत रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Fill color:", "target": "भराई का रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The fill color of the highlight box", "target": "हाइलाइट बक्से का भराई रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> translator - credits", "target": "रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> An interactive Python accessibility explorer", "target": "एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Copyright © 2006, 2007 IBM Corporation (BSD)", "target": "एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.", "target": "नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Web site", "target": "जाल स्थल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Add Bookmark...", "target": "पसंद जोड़ें... (_ A)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bookmark selected accessible.", "target": "चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit Bookmarks...", "target": "पुस्तक चिह्न संपादित करें (_ E)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Manage bookmarks.", "target": "पुस्तक-चिह्नों को प्रबंधित करें।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Edit Bookmarks...", "target": "पुस्तक चिह्नों को संपादित करें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title", "target": "शीर्षक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path", "target": "पथ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Add Bookmark...", "target": "पुस्तक-चिह्न जोड़ें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application:", "target": "अनुप्रयोगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path:", "target": "पथः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin Errors", "target": "प्लग-इन त्रुटियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> View", "target": "दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No view", "target": "कोई दृश्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Single plugins view", "target": "एकल प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View", "target": "प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View (% d)", "target": "प्लग-इन दृश्य (% d)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ New view...", "target": "नया दृश्य..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> New View...", "target": "नया दृश्य..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ File", "target": "फाइल (F)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit", "target": "संपादित करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Bookmarks", "target": "पुस्तक-चिह्न संपादित करें (_ E)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ View", "target": "दृश्य _ (V)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Help", "target": "मदद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Full name", "target": "पूरा नाम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Key binding", "target": "कुंजी बंधन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Content type", "target": "विषय प्रकार"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Give your application an accessibility workout", "target": "अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser Accessibility Explorer", "target": "एक्सेर्साइसर पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The default plugin layout for the bottom panel", "target": "निचले पटल के लिए डिफोल्ट प्लग-इन खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The default plugin layout for the top panel", "target": "ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration", "target": "अवधि को हाइलाइट रकें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes", "target": "पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight border color", "target": "सीमांत (बोर्डर) के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight border.", "target": "हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight fill color", "target": "भराई के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight fill.", "target": "हाइलाइट किया गया भराई का रंग और पारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> API Browser", "target": "एपीआई विचरक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Browse the various methods of the current accessible", "target": "इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hide private attributes", "target": "निजी गुणों को छिपाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Method", "target": "विधि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Property", "target": "गुणधर्म"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Value", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> IPython Console", "target": "आईपाइथन कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interactive console for manipulating currently selected accessible", "target": "इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Monitor Events", "target": "घटनाओं को मानिटर करें (_ M)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> C _ lear Selection", "target": "चुनाव को हटाएं (C _)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Everything", "target": "सभी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected application", "target": "चुने गए अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected accessible", "target": "चुने गए एक्सेसेबेल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Source", "target": "स्रोत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event Monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shows events as they occur from selected types and sources", "target": "चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight last event entry", "target": "अंतिम प्रविष्ट घटना को हाइलाइट करो"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start / stop event recording", "target": "घटना रेकोर्डिंग शुरू करो/रोको"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Clear event log", "target": "घटना रोजनामचा मिटाओ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (no description)", "target": "कोई विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Description", "target": "वर्णन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Show", "target": "दिखाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Accessible", "target": "पहुंचनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Perform action", "target": "कार्रवाई संपन्न करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Acti _ on", "target": "कार्रवाई (_ o)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ID", "target": "आईडी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Toolkit", "target": "औजार बक्सा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Version", "target": "संस्करण"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ap _ plication", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Col _ lection", "target": "संग्रह"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> 0, 0", "target": "0, 0"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Relative position", "target": "सापेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Size", "target": "आकार"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WIDGET", "target": "विडजेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Layer", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> MDI - Z - order", "target": "एमडीआई-जेड-क्रम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alpha", "target": "अल्फा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Absolute position", "target": "निरपेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Co _ mponent", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Des _ ktop", "target": "डेस्कटोप"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale:", "target": "स्थान-विशिष्टः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Document", "target": "प्रलेख"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hyperlink", "target": "हाइपरकड़ी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> H _ ypertext", "target": "हाइपरपाठ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Position", "target": "स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Description", "target": "वर्णन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale", "target": "स्थान-विशिष्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Image", "target": "छवि (_ I)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Lo _ gin Helper", "target": "प्रवेश सहायक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Select All", "target": "सभी चुनें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Selection", "target": "चयन (_ S)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> St _ reamable Content", "target": "प्रवाहित करनेयोग्य विषयवस्तु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected columns", "target": "चुने गए स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected rows", "target": "चुनी गई पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Columns", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Rows", "target": "पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Table Information", "target": "& lt; bgt; सारणी सूचनाlt;/bgt;"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> name (x, y)", "target": "नाम (x, y)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Header:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Extents:", "target": "विस्तारः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Row", "target": "पंक्ति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Column", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected Cell", "target": "& lt; bgt; चुनी गई कोशिकाlt;/bgt;"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Table", "target": "सारणी (_ T)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Offset", "target": "ओफसेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Include defaults", "target": "डिफोल्टों को शामिल करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Te _ xt", "target": "पाठ (_ x)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Current value", "target": "मौजूदा मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum increment", "target": "न्यूनतम वृद्धि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Maximum value", "target": "अधिकतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum value", "target": "न्यूनतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Val _ ue", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interface Viewer", "target": "अंतराफलक दर्शक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Allows viewing of various interface properties", "target": "अंतराफलक के विभिन्न गुणों को देखने देता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (not implemented)", "target": "(क्रियान्वित नहीं हुआ है)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Name", "target": "नाम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> URI", "target": "यूआरआई"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start", "target": "प्रारंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> End", "target": "अंत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Too many selectable children", "target": "बहुत अधिक चयनीय शिशु हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Quick Select", "target": "तेज चुनाव"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.", "target": "प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect last focused accessible", "target": "अंतिम बार फोकस किए गए एक्सेसेबल को जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect accessible under mouse", "target": "माउस के अधीन जो एक्सेसेबल है, उसे जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Native", "target": "वतनी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Dogtail", "target": "श्वानपुच्छ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> LDTP", "target": "एलडीटीपी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Script Type", "target": "लिपि प्रकार"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Script Recorder", "target": "लिपि रेकोर्डर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Creates dogtail style scripts", "target": "श्वानपुच्छ शैली की लिपियां निर्मित करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The current script will be lost.", "target": "वर्तमान लिपि (स्क्रिप्ट) खो जाएगी।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Confirm clear", "target": "मिटाने की पुष्टि करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Sche _ ma:", "target": "स्कीमाः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> V _ alidate", "target": "सत्यापन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Idle", "target": "खाली"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No description", "target": "कोई विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> AT - SPI Validator", "target": "एटी-एसपीआई सत्यापक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validates application accessibility", "target": "अनुप्रयोग की पहुंचनीयता का सत्यापन करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Level", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Role", "target": "भूमिका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Saving", "target": "सहेज रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validating", "target": "पुष्टि कर रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> EXCEPT", "target": "अपवाद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ERROR", "target": "त्रुटि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WARN", "target": "चेतावनी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> INFO", "target": "सूचना"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> DEBUG", "target": "दोषमुक्त करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Basic", "target": "मूल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Tests fundamental GUI application accessibility", "target": "मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> actionable% s is not focusable or selectable", "target": "% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> interactive% s is not actionable", "target": "अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> more than one focused widget", "target": "एक से अधिक विडजेट फोकस में है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no text interface", "target": "% s का कोई पाठ अंतराफलक नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s index in parent does not match child index", "target": "अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Missing reciprocal for% s relation", "target": "% s संबंध के लिए अन्योन्य गायब है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s missing name or label", "target": "% s गायब नाम या सूचक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> focusable% s has table interface, no selection interface", "target": "फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has% s state without% s state", "target": "% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s does not belong to a set", "target": "% s किसी समुच्चय का सदस्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column", "target": "% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d", "target": "% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no name or description", "target": "% s का कोई नाम या विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Preferences...", "target": "पसंद (_ P)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Contents", "target": "विषय सूची (_ C)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?", "target": "एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Note: Changes only take effect after logout.", "target": "टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Children", "target": "शिशु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Refresh Registry", "target": "पंजी ताजा करें (_ R)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh all", "target": "सभी को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh _ Node", "target": "आसंधि (नोड) को ताजा करें (_ N)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh selected node 's children", "target": "चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Component", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Task", "target": "कार्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Key", "target": "कुंजी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alt", "target": "आल्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ctrl", "target": "कंट्रोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shift", "target": "शिफ्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Top panel", "target": "ऊपरी पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bottom panel", "target": "निचला पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Preferences", "target": "एक्सेर्साइसर पसंद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugins", "target": "प्लगइन्स"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Global Hotkeys", "target": "सार्वत्रिक फटाफट कुंजियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlighting", "target": "हाइलाइटन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration:", "target": "हाइलाइट अवधिः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Border color:", "target": "सीमांत रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The border color of the highlight box", "target": "हाइलाइट बक्से का सीमांत रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Fill color:", "target": "भराई का रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The fill color of the highlight box", "target": "हाइलाइट बक्से का भराई रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> translator - credits", "target": "रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> An interactive Python accessibility explorer", "target": "एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Copyright © 2006, 2007 IBM Corporation (BSD)", "target": "एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.", "target": "नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Web site", "target": "जाल स्थल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Add Bookmark...", "target": "पसंद जोड़ें... (_ A)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bookmark selected accessible.", "target": "चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit Bookmarks...", "target": "पुस्तक चिह्न संपादित करें (_ E)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Manage bookmarks.", "target": "पुस्तक-चिह्नों को प्रबंधित करें।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Edit Bookmarks...", "target": "पुस्तक चिह्नों को संपादित करें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title", "target": "शीर्षक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path", "target": "पथ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Add Bookmark...", "target": "पुस्तक-चिह्न जोड़ें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application:", "target": "अनुप्रयोगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path:", "target": "पथः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin Errors", "target": "प्लग-इन त्रुटियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> View", "target": "दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No view", "target": "कोई दृश्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Single plugins view", "target": "एकल प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View", "target": "प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View (% d)", "target": "प्लग-इन दृश्य (% d)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ New view...", "target": "नया दृश्य..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> New View...", "target": "नया दृश्य..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ File", "target": "फाइल (F)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit", "target": "संपादित करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Bookmarks", "target": "पुस्तक-चिह्न संपादित करें (_ E)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ View", "target": "दृश्य _ (V)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Help", "target": "मदद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Full name", "target": "पूरा नाम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Key binding", "target": "कुंजी बंधन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Content type", "target": "विषय प्रकार"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser", "target": "एक्सेर्साइसर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Give your application an accessibility workout", "target": "अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser Accessibility Explorer", "target": "एक्सेर्साइसर पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default.", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration", "target": "अवधि को हाइलाइट रकें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes.", "target": "पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight fill color", "target": "भराई के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight fill.", "target": "हाइलाइट किया गया भराई का रंग और पारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight border color", "target": "सीमांत (बोर्डर) के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight border.", "target": "हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the bottom panel", "target": "नीचे के पैनल के लिए लेआउट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the bottom panel pluginview.", "target": "नीचे पैनल pluginview के लिए लेआउट."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the top panel", "target": "ऊपरी पटल के लिए खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the top panel pluginview.", "target": "शीर्ष पैनल pluginview के लिए लेआउट."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Single layout view", "target": "एकल लेआउट दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Available new pluginviews", "target": "नई pluginviews उपलब्ध है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The default plugin layout for the top panel.", "target": "ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> API Browser", "target": "एपीआई विचरक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Browse the various methods of the current accessible", "target": "इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hide private attributes", "target": "निजी गुणों को छिपाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Method", "target": "विधि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Property", "target": "गुणधर्म"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Value", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> IPython Console", "target": "आईपाइथन कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interactive console for manipulating currently selected accessible", "target": "इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Monitor Events", "target": "घटनाओं को मानिटर करें (_ M)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> C _ lear Selection", "target": "चुनाव को हटाएं (C _)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Everything", "target": "सभी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected application", "target": "चुने गए अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected accessible", "target": "चुने गए एक्सेसेबेल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Source", "target": "स्रोत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event Monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shows events as they occur from selected types and sources", "target": "चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight last event entry", "target": "अंतिम प्रविष्ट घटना को हाइलाइट करो"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start / stop event recording", "target": "घटना रेकोर्डिंग शुरू करो/रोको"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Clear event log", "target": "घटना रोजनामचा मिटाओ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Child count", "target": "बाल गणना"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Description", "target": "वर्णन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> States", "target": "राज्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Attributes", "target": "गुणधर्म"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Show", "target": "दिखाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Relations", "target": "संबंध"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Accessible", "target": "पहुंचनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Perform action", "target": "कार्रवाई संपन्न करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Acti _ on", "target": "कार्रवाई (_ o)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ID", "target": "आईडी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Toolkit", "target": "औजार बक्सा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Version", "target": "संस्करण"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ap _ plication", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Col _ lection", "target": "संग्रह"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> 0, 0", "target": "0, 0"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Relative position", "target": "सापेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Size", "target": "आकार"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WIDGET", "target": "विडजेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Layer", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> MDI - Z - order", "target": "एमडीआई-जेड-क्रम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alpha", "target": "अल्फा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Absolute position", "target": "निरपेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Co _ mponent", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Des _ ktop", "target": "डेस्कटोप"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale:", "target": "स्थान-विशिष्टः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Document", "target": "प्रलेख"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hyperlink", "target": "हाइपरकड़ी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> H _ ypertext", "target": "हाइपरपाठ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Position", "target": "स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale", "target": "स्थान-विशिष्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Image", "target": "छवि (_ I)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Lo _ gin Helper", "target": "प्रवेश सहायक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Select All", "target": "सभी चुनें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Selection", "target": "चयन (_ S)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> St _ reamable Content", "target": "प्रवाहित करनेयोग्य विषयवस्तु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Caption:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Summary:", "target": "सारांशः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected columns", "target": "चुने गए स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected rows", "target": "चुनी गई पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Columns", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Rows", "target": "पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Table Information", "target": "सारणी सूचना"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> name (x, y)", "target": "नाम (x, y)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Header:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Extents:", "target": "विस्तारः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Row", "target": "पंक्ति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Column", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected Cell", "target": "चुनी गई कोशिका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Table", "target": "सारणी (_ T)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Offset", "target": "ओफसेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Include defaults", "target": "डिफोल्टों को शामिल करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start: 0", "target": "प्रारंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> End: 0", "target": "अंतः 0"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Te _ xt", "target": "पाठ (_ x)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Current value", "target": "मौजूदा मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum increment", "target": "न्यूनतम वृद्धि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Maximum value", "target": "अधिकतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum value", "target": "न्यूनतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Val _ ue", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> unknown", "target": "अज्ञात"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interface Viewer", "target": "अंतराफलक दर्शक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Allows viewing of various interface properties", "target": "अंतराफलक के विभिन्न गुणों को देखने देता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (not implemented)", "target": "(क्रियान्वित नहीं हुआ है)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Name", "target": "नाम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> URI", "target": "यूआरआई"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start", "target": "प्रारंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> End", "target": "अंत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Too many selectable children", "target": "बहुत अधिक चयनीय शिशु हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (Editable)", "target": "(संशोधनीय) Start"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start:% d", "target": "प्रारंभEnd"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Quick Select", "target": "तेज चुनाव"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.", "target": "प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect last focused accessible", "target": "अंतिम बार फोकस किए गए एक्सेसेबल को जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect accessible under mouse", "target": "माउस के अधीन जो एक्सेसेबल है, उसे जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Sche _ ma:", "target": "स्कीमाः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> V _ alidate", "target": "सत्यापन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Idle", "target": "खाली"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No description", "target": "कोई विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> AT - SPI Validator", "target": "एटी-एसपीआई सत्यापक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validates application accessibility", "target": "अनुप्रयोग की पहुंचनीयता का सत्यापन करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Level", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Role", "target": "भूमिका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Saving", "target": "सहेज रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validating", "target": "पुष्टि कर रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> EXCEPT", "target": "अपवाद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ERROR", "target": "त्रुटि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WARN", "target": "चेतावनी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> INFO", "target": "सूचना"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> DEBUG", "target": "दोषमुक्त करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Basic", "target": "मूल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Tests fundamental GUI application accessibility", "target": "मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> actionable% s is not focusable or selectable", "target": "% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> interactive% s is not actionable", "target": "अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> more than one focused widget", "target": "एक से अधिक विडजेट फोकस में है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no text interface", "target": "% s का कोई पाठ अंतराफलक नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s index in parent does not match child index", "target": "अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Missing reciprocal for% s relation", "target": "% s संबंध के लिए अन्योन्य गायब है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s missing name or label", "target": "% s गायब नाम या सूचक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> focusable% s has a table interface, but not a selection interface", "target": "फोकस योग्य% s में सारणी अंतराफलक है, लेकिन कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has% s state without% s state", "target": "% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s does not belong to a set", "target": "% s किसी समुच्चय का सदस्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column", "target": "% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d", "target": "% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no name or description", "target": "% s का कोई नाम या विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Preferences...", "target": "पसंद (_ P)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Contents", "target": "विषय सूची (_ C)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> < dead >", "target": "<dead>"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Children", "target": "शिशु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Hide / Show Applications without children", "target": "बच्चों के बिना अनुप्रयोग छिपाएँ/दिखाएँ (_ H)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Refresh Registry", "target": "पंजी ताजा करें (_ R)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh all", "target": "सभी को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh _ Node", "target": "आसंधि (नोड) को ताजा करें (_ N)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh selected node 's children", "target": "चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Component", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Task", "target": "कार्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Key", "target": "कुंजी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alt", "target": "आल्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ctrl", "target": "कंट्रोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shift", "target": "शिफ्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Top panel", "target": "ऊपरी पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bottom panel", "target": "निचला पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Preferences", "target": "एक्सेर्साइसर पसंद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugins", "target": "प्लगइन्स"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Global Hotkeys", "target": "सार्वत्रिक फटाफट कुंजियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlighting", "target": "हाइलाइटन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration:", "target": "हाइलाइट अवधिः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Border color:", "target": "सीमांत रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The border color of the highlight box", "target": "हाइलाइट बक्से का सीमांत रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Fill color:", "target": "भराई का रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The fill color of the highlight box", "target": "हाइलाइट बक्से का भराई रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> translator - credits", "target": "रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> An interactive Python accessibility explorer", "target": "एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)", "target": "एक्सेर्साइसर सर्वाधिकार (c) 2006,2007 आईबीएम निगम (बीएसडी)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.", "target": "नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Web site", "target": "जाल स्थल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Add Bookmark...", "target": "पसंद जोड़ें... (_ A)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bookmark selected accessible.", "target": "चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit Bookmarks...", "target": "पुस्तक चिह्न संपादित करें (_ E)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Manage bookmarks.", "target": "पुस्तक-चिह्नों को प्रबंधित करें।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Edit Bookmarks...", "target": "पुस्तक चिह्नों को संपादित करें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title", "target": "शीर्षक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path", "target": "पथ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Add Bookmark...", "target": "पुस्तक-चिह्न जोड़ें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application:", "target": "अनुप्रयोगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path:", "target": "पथः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin Errors", "target": "प्लग-इन त्रुटियांviewport"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> View", "target": "दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No view", "target": "कोई दृश्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Single plugins view", "target": "एकल प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View", "target": "प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View (% d)", "target": "प्लग-इन दृश्य (% d)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ New view...", "target": "नया दृश्य..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> New View...", "target": "नया दृश्य..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ File", "target": "फाइल (F)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit", "target": "संपादित करेंmenu"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Bookmarks", "target": "पसंद (_ B) menu"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ View", "target": "दृश्य _ (V)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Help", "target": "मदद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (no description)", "target": "(कोई विवरण नहीं)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?", "target": "एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Note: Changes only take effect after logout.", "target": "टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ New view...", "target": "नया दृश्य... (_ N)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Give your application an accessibility workout", "target": "अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser Accessibility Explorer", "target": "एक्सेर्साइसर पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default.", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration", "target": "अवधि को हाइलाइट रकें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes.", "target": "पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight fill color", "target": "भराई के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight fill.", "target": "हाइलाइट किया गया भराई का रंग और पारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight border color", "target": "सीमांत (बोर्डर) के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight border.", "target": "हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the bottom panel", "target": "निचले पटल के लिए डिफोल्ट प्लग-इन खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the bottom panel pluginview.", "target": "निचले पटल के लिए डिफोल्ट प्लग-इन खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the top panel", "target": "ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the top panel pluginview.", "target": "ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Single layout view", "target": "एकल प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Available new pluginviews", "target": "एकल प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The default plugin layout for the top panel.", "target": "ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> API Browser", "target": "एपीआई विचरक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Browse the various methods of the current accessible", "target": "इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hide private attributes", "target": "निजी गुणों को छिपाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Method", "target": "विधि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Property", "target": "गुणधर्म"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Value", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> IPython Console", "target": "आईपाइथन कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interactive console for manipulating currently selected accessible", "target": "इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Monitor Events", "target": "घटनाओं को मानिटर करें (_ M)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> C _ lear Selection", "target": "चुनाव को हटाएं (C _)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Everything", "target": "सभी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected application", "target": "चुने गए अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected accessible", "target": "चुने गए एक्सेसेबेल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Source", "target": "स्रोत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event Monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shows events as they occur from selected types and sources", "target": "चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight last event entry", "target": "अंतिम प्रविष्ट घटना को हाइलाइट करो"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start / stop event recording", "target": "घटना रेकोर्डिंग शुरू करो/रोको"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Clear event log", "target": "घटना रोजनामचा मिटाओ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (no description)", "target": "कोई विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Description", "target": "वर्णन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Show", "target": "दिखाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Accessible", "target": "पहुंचनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Perform action", "target": "कार्रवाई संपन्न करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Acti _ on", "target": "कार्रवाई (_ o)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ID", "target": "आईडी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Toolkit", "target": "औजार बक्सा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Version", "target": "संस्करण"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ap _ plication", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Col _ lection", "target": "संग्रह"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> 0, 0", "target": "0, 0"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Relative position", "target": "सापेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Size", "target": "आकार"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WIDGET", "target": "विडजेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Layer", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> MDI - Z - order", "target": "एमडीआई-जेड-क्रम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alpha", "target": "अल्फा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Absolute position", "target": "निरपेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Co _ mponent", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Des _ ktop", "target": "डेस्कटोप"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale:", "target": "स्थान-विशिष्टः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Document", "target": "प्रलेख"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hyperlink", "target": "हाइपरकड़ी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> H _ ypertext", "target": "हाइपरपाठ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Position", "target": "स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Description", "target": "वर्णन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale", "target": "स्थान-विशिष्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Image", "target": "छवि (_ I)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Lo _ gin Helper", "target": "प्रवेश सहायक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Select All", "target": "सभी चुनें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Selection", "target": "चयन (_ S)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> St _ reamable Content", "target": "प्रवाहित करनेयोग्य विषयवस्तु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected columns", "target": "चुने गए स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected rows", "target": "चुनी गई पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Columns", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Rows", "target": "पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Table Information", "target": "& lt; bgt; सारणी सूचनाlt;/bgt;"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> name (x, y)", "target": "नाम (x, y)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Header:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Extents:", "target": "विस्तारः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Row", "target": "पंक्ति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Column", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected Cell", "target": "& lt; bgt; चुनी गई कोशिकाlt;/bgt;"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Table", "target": "सारणी (_ T)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Offset", "target": "ओफसेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Include defaults", "target": "डिफोल्टों को शामिल करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Te _ xt", "target": "पाठ (_ x)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Current value", "target": "मौजूदा मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum increment", "target": "न्यूनतम वृद्धि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Maximum value", "target": "अधिकतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum value", "target": "न्यूनतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Val _ ue", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interface Viewer", "target": "अंतराफलक दर्शक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Allows viewing of various interface properties", "target": "अंतराफलक के विभिन्न गुणों को देखने देता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (not implemented)", "target": "(क्रियान्वित नहीं हुआ है)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Name", "target": "नाम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> URI", "target": "यूआरआई"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start", "target": "प्रारंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> End", "target": "अंत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Too many selectable children", "target": "बहुत अधिक चयनीय शिशु हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Quick Select", "target": "तेज चुनाव"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.", "target": "प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect last focused accessible", "target": "अंतिम बार फोकस किए गए एक्सेसेबल को जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect accessible under mouse", "target": "माउस के अधीन जो एक्सेसेबल है, उसे जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Sche _ ma:", "target": "स्कीमाः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> V _ alidate", "target": "सत्यापन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Idle", "target": "खाली"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No description", "target": "कोई विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> AT - SPI Validator", "target": "एटी-एसपीआई सत्यापक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validates application accessibility", "target": "अनुप्रयोग की पहुंचनीयता का सत्यापन करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Level", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Role", "target": "भूमिका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Saving", "target": "सहेज रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validating", "target": "पुष्टि कर रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> EXCEPT", "target": "अपवाद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ERROR", "target": "त्रुटि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WARN", "target": "चेतावनी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> INFO", "target": "सूचना"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> DEBUG", "target": "दोषमुक्त करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Basic", "target": "मूल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Tests fundamental GUI application accessibility", "target": "मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> actionable% s is not focusable or selectable", "target": "% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> interactive% s is not actionable", "target": "अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> more than one focused widget", "target": "एक से अधिक विडजेट फोकस में है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no text interface", "target": "% s का कोई पाठ अंतराफलक नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s index in parent does not match child index", "target": "अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Missing reciprocal for% s relation", "target": "% s संबंध के लिए अन्योन्य गायब है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s missing name or label", "target": "% s गायब नाम या सूचक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> focusable% s has a table interface, but not a selection interface", "target": "फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has% s state without% s state", "target": "% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s does not belong to a set", "target": "% s किसी समुच्चय का सदस्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column", "target": "% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d", "target": "% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no name or description", "target": "% s का कोई नाम या विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Preferences...", "target": "पसंद (_ P)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Contents", "target": "विषय सूची (_ C)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?", "target": "एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Note: Changes only take effect after logout.", "target": "टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Children", "target": "शिशु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Refresh Registry", "target": "पंजी ताजा करें (_ R)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh all", "target": "सभी को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh _ Node", "target": "आसंधि (नोड) को ताजा करें (_ N)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh selected node 's children", "target": "चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Component", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Task", "target": "कार्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Key", "target": "कुंजी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alt", "target": "आल्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ctrl", "target": "कंट्रोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shift", "target": "शिफ्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Top panel", "target": "ऊपरी पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bottom panel", "target": "निचला पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Preferences", "target": "एक्सेर्साइसर पसंद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugins", "target": "प्लगइन्स"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Global Hotkeys", "target": "सार्वत्रिक फटाफट कुंजियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlighting", "target": "हाइलाइटन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration:", "target": "हाइलाइट अवधिः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Border color:", "target": "सीमांत रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The border color of the highlight box", "target": "हाइलाइट बक्से का सीमांत रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Fill color:", "target": "भराई का रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The fill color of the highlight box", "target": "हाइलाइट बक्से का भराई रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> translator - credits", "target": "रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> An interactive Python accessibility explorer", "target": "एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)", "target": "एक्सेर्साइसर सर्वाधिकार © 2006,2007 आईबीएम निगम (बीएसडी)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.", "target": "नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Web site", "target": "जाल स्थल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Add Bookmark...", "target": "पसंद जोड़ें... (_ A)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bookmark selected accessible.", "target": "चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit Bookmarks...", "target": "पुस्तक चिह्न संपादित करें (_ E)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Manage bookmarks.", "target": "पुस्तक-चिह्नों को प्रबंधित करें।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Edit Bookmarks...", "target": "पुस्तक चिह्नों को संपादित करें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title", "target": "शीर्षक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path", "target": "पथ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Add Bookmark...", "target": "पुस्तक-चिह्न जोड़ें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application:", "target": "अनुप्रयोगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path:", "target": "पथः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin Errors", "target": "प्लग-इन त्रुटियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> View", "target": "दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No view", "target": "कोई दृश्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Single plugins view", "target": "एकल प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View", "target": "प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View (% d)", "target": "प्लग-इन दृश्य (% d)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ New view...", "target": "नया दृश्य..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> New View...", "target": "नया दृश्य..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ File", "target": "फाइल (F)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit", "target": "संपादित करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Bookmarks", "target": "पुस्तक-चिह्न संपादित करें (_ E)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ View", "target": "दृश्य _ (V)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Help", "target": "मदद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser", "target": "एक्सेर्साइसर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Give your application an accessibility workout", "target": "अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser Accessibility Explorer", "target": "एक्सेर्साइसर पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default.", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration", "target": "अवधि को हाइलाइट रकें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The duration of the highlight box when selecting accessible nodes.", "target": "पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight fill color", "target": "भराई के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight fill.", "target": "हाइलाइट किया गया भराई का रंग और पारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight border color", "target": "सीमांत (बोर्डर) के रंग को हाइलाइट करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The color and opacity of the highlight border.", "target": "हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Horizontal split", "target": "क्षैतिज विभाजन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Position of the horizontal split of the main window.", "target": "मुख्य विंडो की क्षैतिज विभाजन की स्थिति."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Vertical split", "target": "अनुलंब विभाजित"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Position of the vertical split of the main window.", "target": "मुख्य विंडो की अनुलंब विभाजित की स्थिति."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Default window height", "target": "तयशुदा विंडो ऊंचाई"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The window height value.", "target": "विंडो की ऊंचाई का मान."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Default window width", "target": "तयशुदा विंडो चौड़ाई"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The window width value.", "target": "विंडो चौड़ाई मान."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the bottom panel", "target": "नीचे के पैनल के लिए लेआउट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the bottom panel pluginview.", "target": "नीचे पैनल pluginview के लिए लेआउट."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the top panel", "target": "ऊपरी पटल के लिए खाका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The layout for the top panel pluginview.", "target": "शीर्ष पैनल pluginview के लिए लेआउट."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Single layout view", "target": "एकल लेआउट दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> View plugins in a single layout.", "target": "एक ही खाका में प्लगिन देखें."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Available new pluginviews", "target": "नई pluginviews उपलब्ध है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> This list contains all the new available pluginviews", "target": "इस सूची में सभी नई उपलब्ध pluginviews शामिल हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The pluginview layout", "target": "pluginview लेआउट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The default plugin layout for the top panel.", "target": "ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Window height", "target": "विंडो की ऊँचाई"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Window height value.", "target": "विंडो की ऊंचाई का मान."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Window width", "target": "विंडो की चौड़ाई"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Window width value.", "target": "विंडो चौड़ाई मान."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hotkey combination", "target": "hotkey संयोजन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hotkey combination for related action.", "target": "संबंधित कार्रवाई के लिए hotkey संयोजन."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> API Browser", "target": "एपीआई विचरक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Browse the various methods of the current accessible", "target": "इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hide private attributes", "target": "निजी गुणों को छिपाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Method", "target": "विधि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Property", "target": "गुणधर्म"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Value", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> IPython Console", "target": "आईपाइथन कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interactive console for manipulating currently selected accessible", "target": "इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Monitor Events", "target": "घटनाओं को मानिटर करें (_ M)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> C _ lear Selection", "target": "चुनाव को हटाएं (C _)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Everything", "target": "सभी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected application", "target": "चुने गए अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected accessible", "target": "चुने गए एक्सेसेबेल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Source", "target": "स्रोत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Event Monitor", "target": "घटना मानिटर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shows events as they occur from selected types and sources", "target": "चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight last event entry", "target": "अंतिम प्रविष्ट घटना को हाइलाइट करो"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start / stop event recording", "target": "घटना रेकोर्डिंग शुरू करो/रोको"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Clear event log", "target": "घटना रोजनामचा मिटाओ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Child count", "target": "बाल गणना"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (no description)", "target": "(कोई विवरण नहीं)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Description", "target": "वर्णन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> States", "target": "राज्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Show", "target": "दिखाएं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Relations", "target": "संबंध"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Attributes", "target": "गुणधर्म"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Accessible", "target": "पहुंचनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Perform action", "target": "कार्रवाई संपन्न करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Acti _ on", "target": "कार्रवाई (_ o)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ID", "target": "आईडी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Toolkit", "target": "औजार बक्सा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Version", "target": "संस्करण"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ap _ plication", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Col _ lection", "target": "संग्रह"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> 0, 0", "target": "0, 0"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Relative position", "target": "सापेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Size", "target": "आकार"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WIDGET", "target": "विडजेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Layer", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> MDI - Z - order", "target": "एमडीआई-जेड-क्रम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alpha", "target": "अल्फा"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Absolute position", "target": "निरपेक्ष स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Co _ mponent", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Des _ ktop", "target": "डेस्कटोप"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale:", "target": "स्थान-विशिष्टः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Document", "target": "प्रलेख"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Hyperlink", "target": "हाइपरकड़ी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> H _ ypertext", "target": "हाइपरपाठ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Position", "target": "स्थिति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Description", "target": "वर्णन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Locale", "target": "स्थान-विशिष्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Image", "target": "छवि (_ I)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Lo _ gin Helper", "target": "प्रवेश सहायक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Select All", "target": "सभी चुनें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Selection", "target": "चयन (_ S)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> St _ reamable Content", "target": "प्रवाहित करनेयोग्य विषयवस्तु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Caption:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Summary:", "target": "सारांशः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected columns", "target": "चुने गए स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected rows", "target": "चुनी गई पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Columns", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Rows", "target": "पंक्तियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Table Information", "target": "सारणी सूचना"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> name (x, y)", "target": "नाम (x, y)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Header:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Extents:", "target": "विस्तारः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Row", "target": "पंक्ति"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Column", "target": "स्तंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Selected Cell", "target": "चुनी गई कोशिका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Table", "target": "सारणी (_ T)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Text", "target": "पाठ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Offset", "target": "ओफसेट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Include defaults", "target": "डिफोल्टों को शामिल करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start: 0", "target": "प्रारंभः 0"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> End: 0", "target": "अंतः 0"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Te _ xt", "target": "पाठ (_ x)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Current value", "target": "मौजूदा मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum increment", "target": "न्यूनतम वृद्धि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Maximum value", "target": "अधिकतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Minimum value", "target": "न्यूनतम मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Val _ ue", "target": "मान"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> unknown", "target": "अज्ञात"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Interface Viewer", "target": "अंतराफलक दर्शक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Allows viewing of various interface properties", "target": "अंतराफलक के विभिन्न गुणों को देखने देता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (not implemented)", "target": "(क्रियान्वित नहीं हुआ है)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Name", "target": "नाम"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> URI", "target": "यूआरआई"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Start", "target": "प्रारंभ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> End", "target": "अंत"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Too many selectable children", "target": "बहुत अधिक चयनीय शिशु हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> (Editable)", "target": "(संशोधनीय)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Quick Select", "target": "तेज चुनाव"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin with various methods of selecting accessibles quickly.", "target": "प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect last focused accessible", "target": "अंतिम बार फोकस किए गए एक्सेसेबल को जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Inspect accessible under mouse", "target": "माउस के अधीन जो एक्सेसेबल है, उसे जांचें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Sche _ ma:", "target": "स्कीमाः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> V _ alidate", "target": "सत्यापन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Idle", "target": "खाली"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No description", "target": "कोई विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> AT - SPI Validator", "target": "एटी-एसपीआई सत्यापक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validates application accessibility", "target": "अनुप्रयोग की पहुंचनीयता का सत्यापन करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Level", "target": "स्तर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Role", "target": "भूमिका"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Saving", "target": "सहेज रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Validating", "target": "पुष्टि कर रहे हैं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> EXCEPT", "target": "अपवाद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> ERROR", "target": "त्रुटि"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> WARN", "target": "चेतावनी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> INFO", "target": "सूचना"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> DEBUG", "target": "दोषमुक्त करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Basic", "target": "मूल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Tests fundamental GUI application accessibility", "target": "मूलभूत जीयूआई अनुप्रयोग पहुंचनीयता का परीक्षण करता है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> actionable% s is not focusable or selectable", "target": "% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> interactive% s is not actionable", "target": "अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> more than one focused widget", "target": "एक से अधिक विडजेट फोकस में है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no text interface", "target": "% s का कोई पाठ अंतराफलक नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s index in parent does not match child index", "target": "अभिभावक में% s सूची शिशु सूची सेमेल नहीं खाती"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Missing reciprocal for% s relation", "target": "% s संबंध के लिए अन्योन्य गायब है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s missing name or label", "target": "% s गायब नाम या सूचक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> focusable% s has a table interface, but not a selection interface", "target": "फोकस योग्य% s में सारणी अंतराफलक है, लेकिन कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has% s state without% s state", "target": "% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s does not belong to a set", "target": "% s किसी समुच्चय का सदस्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s index% (num) d does not match row and column", "target": "% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % (rolename) s parent index% (num1) d does not match row and column index% (num2) d", "target": "% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> % s has no name or description", "target": "% s का कोई नाम या विवरण नहीं"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Preferences...", "target": "पसंद (_ P)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Contents", "target": "विषय सूची (_ C)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?", "target": "एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Note: Changes only take effect after logout.", "target": "टिप्पणीः परिवर्तन सत्रांत (लोगआउट) के बाद ही प्रभाव में आएंगे।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> < dead >", "target": "<dead>"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Children", "target": "शिशु"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Hide / Show Applications without children", "target": "बच्चों के बिना अनुप्रयोग छिपाएँ/दिखाएँ (_ H)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Refresh Registry", "target": "पंजी ताजा करें (_ R)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh all", "target": "सभी को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh _ Node", "target": "आसंधि (नोड) को ताजा करें (_ N)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Refresh selected node 's children", "target": "चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Component", "target": "घटक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Task", "target": "कार्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Key", "target": "कुंजी"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Alt", "target": "आल्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Ctrl", "target": "कंट्रोल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Shift", "target": "शिफ्ट"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Top panel", "target": "ऊपरी पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bottom panel", "target": "निचला पटल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Preferences", "target": "एक्सेर्साइसर पसंद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugins", "target": "प्लगइन्स"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Global Hotkeys", "target": "सार्वत्रिक फटाफट कुंजियां"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlighting", "target": "हाइलाइटन"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Highlight duration:", "target": "हाइलाइट अवधिः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Border color:", "target": "सीमांत रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The border color of the highlight box", "target": "हाइलाइट बक्से का सीमांत रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Fill color:", "target": "भराई का रंगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The fill color of the highlight box", "target": "हाइलाइट बक्से का भराई रंग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> translator - credits", "target": "रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> An interactive Python accessibility explorer", "target": "एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)", "target": "एक्सेर्साइसर सर्वाधिकार (c) 2006,2007 आईबीएम निगम (बीएसडी)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> The New BSD License See the COPYING and NOTICE files for details.", "target": "नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Web site", "target": "जाल स्थल"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Add Bookmark...", "target": "पसंद जोड़ें... (_ A)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Bookmark selected accessible.", "target": "चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit Bookmarks...", "target": "पुस्तक चिह्न संपादित करें (_ E)..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Manage bookmarks.", "target": "पुस्तक-चिह्नों को प्रबंधित करें।"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Edit Bookmarks...", "target": "पुस्तक चिह्नों को संपादित करें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title", "target": "शीर्षक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application", "target": "अनुप्रयोग"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path", "target": "पथ"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Add Bookmark...", "target": "पुस्तक-चिह्न जोड़ें..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Title:", "target": "शीर्षकः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Application:", "target": "अनुप्रयोगः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Path:", "target": "पथः"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin Errors", "target": "प्लग-इन त्रुटियांviewport"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> View", "target": "दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> No view", "target": "कोई दृश्य नहीं है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Single plugins view", "target": "एकल प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View", "target": "प्लग-इन दृश्य"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Plugin View (% d)", "target": "प्लग-इन दृश्य (% d)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ New view...", "target": "नया दृश्य... (_ N)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> New View...", "target": "नया दृश्य..."}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ File", "target": "फाइल (F)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Edit", "target": "संपादित करेंmenu"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Bookmarks", "target": "पसंद (_ B) menu"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ View", "target": "दृश्य _ (V)"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> _ Help", "target": "मदद"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser", "target": "एक्सेर्साइसर"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Give your application an accessibility workout", "target": "अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> Accerciser Accessibility Explorer", "target": "एक्सेर्साइसर पहुंचनीयता अन्वेषक"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}
+{"task": "translate", "src_lang": "en", "tgt_lang": "hi", "input": "<translate> <lang:hi> A list of plugins that are disabled by default.", "target": "उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है"}

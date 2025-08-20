@@ -5,7 +5,7 @@ import json
 
 RAW_JSONL = Path("data/processed/all_tagged.jsonl")
 SPM_PREFIX = "data/spm_multitask"
-VOCAB_SIZE = 166   # small for demo; use 32k+ for real runs
+VOCAB_SIZE = 946   # small for demo; use 32k+ for real runs
 
 # 1. Build a plain text corpus for sentencepiece training by concatenating inputs+targets
 corpus_txt = Path("data/processed/spm_corpus.txt")

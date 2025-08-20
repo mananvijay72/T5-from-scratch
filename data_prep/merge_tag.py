@@ -29,7 +29,7 @@ with out_file.open("w", encoding="utf-8") as fout:
             obj = tag_translate(src, tgt, "hi")
             fout.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
-    # EN->ES
+    '''# EN->ES
     with open(RAW / "en_es.txt", encoding="utf-8") as f:
         for line in f:
             if not line.strip(): continue
@@ -52,5 +52,5 @@ with out_file.open("w", encoding="utf-8") as fout:
             context, question, answer = line.strip().split("\t")
             obj = tag_qa(context, question, answer)
             fout.write(json.dumps(obj, ensure_ascii=False) + "\n")
-
+    '''
 print("Wrote:", out_file)
